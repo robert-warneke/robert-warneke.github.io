@@ -4,6 +4,7 @@ https://robertwarneke.com
 Static portfolio website hosted with GitHub Pages.
 
 Resources used:
+
     Fonts: https://fonts.google.com/
 
     Icons: https://fontawesome.com/
