@@ -13,6 +13,3 @@ Resources used:
     Icons: https://fontawesome.com/
 
     Forms: https://formspree.io/
-
-Color Scheme:
-    #6660e0
