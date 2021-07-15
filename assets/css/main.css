@@ -10,6 +10,19 @@
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
     /* CONSTRUCTION PAGE  - Maintenance*/
+    #construction {
+        margin: auto;
+        width: 80%;
+    }
+
+    #construction h1 {
+        text-align: center;
+    }
+
+    #namelogo {
+        margin: auto;
+        width: 100%;
+    }
 
 
 /* TABLET */
