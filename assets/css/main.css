@@ -12,7 +12,11 @@
     #splashtitle2 {
         display: none;
     }
-
+    /* HOME - Main Directory */
+    /* ABOUT - Picture & Summary */
+    /* PROJECTS - Showcase */
+    /* CONTACT - Form */
+    /* CONSTRUCTION PAGE  - Maintenance*/
 
 /* TABLET */
 @media screen and (min-width:481px) {
@@ -21,6 +25,7 @@
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
+    /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
 
@@ -47,6 +52,7 @@
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
+    /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
 
@@ -58,6 +64,7 @@
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
+    /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
 
@@ -69,5 +76,6 @@
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
+    /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
