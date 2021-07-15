@@ -29,6 +29,8 @@ Original project-showcase repository located at https://www.github.com/robert-wa
 
 Author: Robert Warneke
 
+Please feel free to contact me with comments, questions, concerns, etc.
+
     contact@robertwarneke.com
 
 LinkedIn:
