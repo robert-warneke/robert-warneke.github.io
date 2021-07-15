@@ -1,4 +1,7 @@
 Robert Warneke
+
+contact@robertwarneke.com
+
 https://robertwarneke.com
 
 Static portfolio website hosted with GitHub Pages.
