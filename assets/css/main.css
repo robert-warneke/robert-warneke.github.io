@@ -1,5 +1,8 @@
 @import url('fontawesome-all.min.css');
 
+body {
+    background-color: #6660e0;
+}
 
 /* Responsive Design - Media Queries */
 
@@ -17,6 +20,7 @@
 
     #construction h1 {
         text-align: center;
+        color: #fff0e0;
     }
 
     #namelogo {
