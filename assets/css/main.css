@@ -2,7 +2,7 @@
 
 body {
     background: rgb(102,96,224);
-    background: radial-gradient(circle, rgba(102,96,224,1) 0%, rgba(137,96,224,1) 150%);
+    background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
 }
 
 /* Responsive Design - Media Queries */
