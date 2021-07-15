@@ -29,7 +29,7 @@ Original project-showcase repository located at https://www.github.com/robert-wa
 
 Author: Robert Warneke
 
-Please feel free to contact me with comments, questions, concerns, etc.
+Please feel free to contact me with comments, questions, concerns, business inquiries, etc.
 
     contact@robertwarneke.com
 
