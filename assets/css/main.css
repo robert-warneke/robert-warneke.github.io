@@ -5,18 +5,20 @@
 
 /* MOBILE */
     /* WELCOME - Landing Page */
-    #splashlogo2 {
-        display: none;
-    }
-
-    #splashtitle2 {
-        display: none;
-    }
     /* HOME - Main Directory */
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
     /* CONSTRUCTION PAGE  - Maintenance*/
+    #construction {
+        display: block;
+    }
+
+    #namelogo {
+        display: none;
+    }
+
+
 
 /* TABLET */
 @media screen and (min-width:481px) {
@@ -33,21 +35,6 @@
 /* LAPTOPS - SMALL SCREENS */
 @media screen and (min-width:769px) {
     /* WELCOME - Landing Page */
-    #splashlogo1 {
-        display: none;
-    }
-
-    #splashlogo2 {
-        display: block;
-    }
-
-    #splashtitle1 {
-        display: none;
-    }
-
-    #splashtitle2 {
-        display: block;
-    }
     /* HOME - Main Directory */
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
