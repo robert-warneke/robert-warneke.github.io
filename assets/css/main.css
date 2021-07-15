@@ -1,1 +1,73 @@
-placeholder
+@import url('fontawesome-all.min.css');
+
+
+/* Responsive Design - Media Queries */
+
+/* MOBILE */
+    /* WELCOME - Landing Page */
+    #splashlogo2 {
+        display: none;
+    }
+
+    #splashtitle2 {
+        display: none;
+    }
+
+
+/* TABLET */
+@media screen and (min-width:481px) {
+    /* WELCOME - Landing Page */
+    /* HOME - Main Directory */
+    /* ABOUT - Picture & Summary */
+    /* PROJECTS - Showcase */
+    /* CONTACT - Form */
+
+}
+
+
+/* LAPTOPS - SMALL SCREENS */
+@media screen and (min-width:769px) {
+    /* WELCOME - Landing Page */
+    #splashlogo1 {
+        display: none;
+    }
+
+    #splashlogo2 {
+        display: block;
+    }
+
+    #splashtitle1 {
+        display: none;
+    }
+
+    #splashtitle2 {
+        display: block;
+    }
+    /* HOME - Main Directory */
+    /* ABOUT - Picture & Summary */
+    /* PROJECTS - Showcase */
+    /* CONTACT - Form */
+
+}
+
+
+/* DESKTOPS - LARGE SCREENS */
+@media screen and (min-width:1025px) {
+    /* WELCOME - Landing Page */
+    /* HOME - Main Directory */
+    /* ABOUT - Picture & Summary */
+    /* PROJECTS - Showcase */
+    /* CONTACT - Form */
+
+}
+
+
+/* EXTRA LARGE SCREENS - 4K */
+@media screen and (min-width:1201px) {
+    /* WELCOME - Landing Page */
+    /* HOME - Main Directory */
+    /* ABOUT - Picture & Summary */
+    /* PROJECTS - Showcase */
+    /* CONTACT - Form */
+
+}
