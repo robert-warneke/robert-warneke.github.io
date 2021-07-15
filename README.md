@@ -6,13 +6,16 @@ Static portfolio website hosted with GitHub Pages.
 
 Resources used:
 
-Fonts: 
+Fonts:
+
     https://fonts.google.com/
 
-Icons: 
+Icons:
+
     https://fontawesome.com/
 
-Forms: 
+Forms:
+
     https://formspree.io/
 
 
