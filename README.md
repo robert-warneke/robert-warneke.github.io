@@ -1,9 +1,3 @@
-Robert Warneke
-
-contact@robertwarneke.com
-
-https://robertwarneke.com
-
 Static portfolio website hosted with GitHub Pages.
 
 Resources used:
@@ -15,4 +9,11 @@ Resources used:
     Forms: https://formspree.io/
 
 
+https://robertwarneke.com
+https://robert-warneke.github.io
+
 Original repository located at https://github.com/robert-warneke/robert-warneke.github.io
+
+
+Robert Warneke
+contact@robertwarneke.com
