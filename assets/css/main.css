@@ -22,7 +22,7 @@ body {
         padding: 5%;
     }
 
-    #construction h1 {
+    #construction h1, #construction p {
         text-align: center;
         color: #fff0e0;
     }
