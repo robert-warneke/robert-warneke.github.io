@@ -4,6 +4,8 @@ https://www.robert-warneke.github.io
 
 Static portfolio website hosted with GitHub Pages.
 
+---------------------------------------------------------------------------------------------------------
+
 Resources used:
 
 Fonts:
@@ -17,6 +19,8 @@ Icons:
 Forms:
 
     https://formspree.io/
+
+---------------------------------------------------------------------------------------------------------
 
 
 Original repository located at https://github.com/robert-warneke/robert-warneke.github.io
