@@ -25,6 +25,18 @@ Forms:
 
 Original repository located at https://github.com/robert-warneke/robert-warneke.github.io
 
+Original project-showcase repository located at https://www.github.com/robert-warneke/project-showcase
+
 Author: Robert Warneke
 
     contact@robertwarneke.com
+
+LinkedIn:
+
+    https://www.linkedin.com/in/robert-warneke
+
+GitHub:
+
+    https://www.github.com/robert-warneke
+
+
