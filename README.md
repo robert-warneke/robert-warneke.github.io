@@ -4,6 +4,7 @@ https://www.robert-warneke.github.io
 
 Static portfolio website with responsive design, hosted using GitHub Pages.
 
+
 ---------------------------------------------------------------------------------------------------------
 
 Resources used:
@@ -22,10 +23,27 @@ Forms:
 
 ---------------------------------------------------------------------------------------------------------
 
+Art by Robert Warneke:
 
-Original repository located at https://github.com/robert-warneke/robert-warneke.github.io
+    favicon.svg
 
-Original project-showcase repository located at https://www.github.com/robert-warneke/project-showcase
+    namelogo.svg
+
+    wlogo.svg
+
+    wlogowhite.svg
+
+    wlogo.png
+
+The above .svg files were optimized with this SVG optimiser by Peter Collingridge:
+
+    https://petercollingridge.appspot.com/svg-optimiser
+
+---------------------------------------------------------------------------------------------------------
+
+Original 'robert-warneke.github.io' repository located at https://github.com/robert-warneke/robert-warneke.github.io
+
+Original 'project-showcase' repository located at https://www.github.com/robert-warneke/project-showcase
 
 Author: Robert Warneke
 
