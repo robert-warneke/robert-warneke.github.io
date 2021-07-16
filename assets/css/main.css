@@ -16,6 +16,23 @@ body {
     background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
 }
 
+.buttonlinks a {
+    text-decoration: none;
+    text-align: center;
+    background-color: #6660e0;
+    color: #fff0e0;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+    .buttonlinks a:hover {
+        cursor: pointer;
+        background-color: #fff0e0;
+        color: #6660e0;
+        transition: 0.5s;
+    }
 
 /* Responsive Design - Media Queries */
 
@@ -49,23 +66,15 @@ body {
             padding-bottom: 10px;
         }
 
+        .buttonlinks {
+            margin: 0 auto;
+            width: 100%;
+        }
+        
         .buttonlinks .btn1 {
-            text-decoration: none;
             margin: 15px auto;
             width: 75%;
-            background-color: #6660e0;
-            color: #fff0e0;
-            text-align: center;
-            border-radius: 20px;
-            padding: 10px;
         }
-
-            .buttonlinks .btn1:hover {
-                cursor: pointer;
-                background-color: #fff0e0;
-                color: #6660e0;
-                transition: 0.5s;
-            }
 
 /* TABLET */
 @media screen and (min-width:481px) {
