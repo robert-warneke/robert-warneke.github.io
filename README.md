@@ -4,23 +4,6 @@ https://www.robert-warneke.github.io
 
 Static portfolio website with responsive design, hosted using GitHub Pages.
 
-
----------------------------------------------------------------------------------------------------------
-
-Resources used:
-
-Fonts:
-
-    https://fonts.google.com/
-
-Icons:
-
-    https://fontawesome.com/
-
-Forms:
-
-    https://formspree.io/
-
 ---------------------------------------------------------------------------------------------------------
 
 Art by Robert Warneke:
@@ -38,6 +21,22 @@ Art by Robert Warneke:
 The above .svg files were optimized with this SVG optimiser by Peter Collingridge:
 
     https://petercollingridge.appspot.com/svg-optimiser
+
+---------------------------------------------------------------------------------------------------------
+
+Additional resources used:
+
+Fonts:
+
+    https://fonts.google.com/
+
+Icons:
+
+    https://fontawesome.com/
+
+Forms:
+
+    https://formspree.io/
 
 ---------------------------------------------------------------------------------------------------------
 
