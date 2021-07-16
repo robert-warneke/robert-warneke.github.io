@@ -25,15 +25,15 @@ Forms:
 
 Art by Robert Warneke:
 
-    favicon.svg
+    favicon.svg (root/assets/img/svg/favicon.svg)
 
-    namelogo.svg
+    namelogo.svg (root/assets/img/svg/namelogo.svg)
 
-    wlogo.svg
+    wlogo.svg (root/assets/img/svg/wlogo.svg)
 
-    wlogowhite.svg
+    wlogowhite.svg (root/assets/img/svg/wlogowhite.svg)
 
-    wlogo.png
+    wlogo.png (root/assets/img/png/wlogo.png)
 
 The above .svg files were optimized with this SVG optimiser by Peter Collingridge:
 
