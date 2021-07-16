@@ -64,6 +64,7 @@ body {
                 cursor: pointer;
                 background-color: #fff0e0;
                 color: #6660e0;
+                transition: 0.4s;
             }
 
 /* TABLET */
