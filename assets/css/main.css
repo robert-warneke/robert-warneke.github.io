@@ -16,23 +16,23 @@ body {
     background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
 }
 
-.buttonlinks a {
-    text-decoration: none;
-    text-align: center;
-    background-color: #6660e0;
-    color: #fff0e0;
-    padding: 10px;
-    border-radius: 20px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
-    .buttonlinks a:hover {
-        cursor: pointer;
-        background-color: #fff0e0;
-        color: #6660e0;
-        transition: 0.5s;
+    .buttonlinks a {
+        text-decoration: none;
+        text-align: center;
+        background-color: #6660e0;
+        color: #fff0e0;
+        padding: 10px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
+
+        .buttonlinks a:hover {
+            cursor: pointer;
+            background-color: #fff0e0;
+            color: #6660e0;
+            transition: 0.5s;
+        }
 
 /* Responsive Design - Media Queries */
 
@@ -54,27 +54,27 @@ body {
             padding: 5%;
         }
 
-        #construction h1, #construction p {
-            text-align: center;
-            color: #fff0e0;
-        }
+            #construction h1, #construction p {
+                text-align: center;
+                color: #fff0e0;
+            }
 
-        #namelogo {
-            margin: auto;
-            width: 100%;
-            padding-top: 10px;
-            padding-bottom: 10px;
-        }
+            #namelogo {
+                margin: auto;
+                width: 100%;
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
 
-        .buttonlinks {
-            margin: 0 auto;
-            width: 100%;
-        }
-        
-        .buttonlinks .btn1 {
-            margin: 15px auto;
-            width: 75%;
-        }
+            .buttonlinks {
+                margin: 0 auto;
+                width: 100%;
+            }
+            
+                .buttonlinks .btn1 {
+                    margin: 15px auto;
+                    width: 75%;
+                }
 
 /* TABLET */
 @media screen and (min-width:481px) {
