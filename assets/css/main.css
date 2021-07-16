@@ -5,12 +5,11 @@ a {
     display: block;
 }
 
-/* Label */
 .label {
     display: none;
 }
 
-/* vvv PAGE DESIGN vvv */
+/* vvv DESIGN vvv */
 
 body {
     background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
