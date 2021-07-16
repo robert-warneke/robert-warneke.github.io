@@ -2,7 +2,7 @@ https://www.robertwarneke.com
 
 https://www.robert-warneke.github.io
 
-Static portfolio website hosted with GitHub Pages.
+Static portfolio website with responsive design, hosted using GitHub Pages.
 
 ---------------------------------------------------------------------------------------------------------
 
