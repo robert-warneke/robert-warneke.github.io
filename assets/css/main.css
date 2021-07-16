@@ -4,6 +4,10 @@ body {
     background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
 }
 
+.label {
+    display: none;
+}
+
 /* Responsive Design - Media Queries */
 
 /* MOBILE */
@@ -12,27 +16,30 @@ body {
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
-    /* CONSTRUCTION PAGE  - Maintenance*/
-    #construction {
-        margin: auto;
-        width: 80%;
-        background-color: #000e0e1a;
-        border: dashed;
-        border-color: #fff0e0;
-        padding: 5%;
-    }
 
-    #construction h1, #construction p {
-        text-align: center;
-        color: #fff0e0;
-    }
 
-    #namelogo {
-        margin: auto;
-        width: 100%;
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
+        /* CONSTRUCTION PAGE  - Maintenance*/
+        #construction {
+            margin: auto;
+            margin-top: 50px;
+            width: 80%;
+            background-color: #000e0e1a;
+            border: dashed;
+            border-color: #fff0e0;
+            padding: 5%;
+        }
+
+        #construction h1, #construction p {
+            text-align: center;
+            color: #fff0e0;
+        }
+
+        #namelogo {
+            margin: auto;
+            width: 100%;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
 
 
 /* TABLET */
@@ -42,7 +49,7 @@ body {
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
-    /* CONSTRUCTION PAGE  - Maintenance*/
+        /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
 
@@ -54,7 +61,7 @@ body {
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
-    /* CONSTRUCTION PAGE  - Maintenance*/
+        /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
 
@@ -66,7 +73,7 @@ body {
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
-    /* CONSTRUCTION PAGE  - Maintenance*/
+        /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
 
@@ -78,6 +85,6 @@ body {
     /* ABOUT - Picture & Summary */
     /* PROJECTS - Showcase */
     /* CONTACT - Form */
-    /* CONSTRUCTION PAGE  - Maintenance*/
+        /* CONSTRUCTION PAGE  - Maintenance*/
 
 }
