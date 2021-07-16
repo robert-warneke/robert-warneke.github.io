@@ -1,37 +1,21 @@
 @import url('fontawesome-all.min.css');
 
-body {
-    background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
-}
 
+a {
+    display: block;
+}
 
 /* Label */
 .label {
     display: none;
 }
 
-/* Buttons */
-button {
-    display: block;
+/* vvv PAGE DESIGN vvv */
+
+body {
+    background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
 }
 
-.btn1 {
-    background-color: #6660e0;
-    color: #fff0e0;
-    border-color: #fff0e0;
-    border-width: 4px;
-    border-radius: 12px;
-    font-size: 20px;
-    padding: 10px;
-    height: 75px;
-}
-
-    .btn1:hover {
-        cursor: pointer;
-        background-color: #fff0e0;
-        color: #6660e0;
-        border-color: #6660e0;
-    }
 
 /* Responsive Design - Media Queries */
 
@@ -65,11 +49,15 @@ button {
             padding-bottom: 10px;
         }
 
-        .btn1 {
+        .buttons .btn1 {
+            text-decoration: none;
             margin: 15px auto;
             width: 75%;
+            background-color: #6660e0;
+            color: #fff0e0;
+            text-align: center;
+            border-radius: 20px;
         }
-
 
 /* TABLET */
 @media screen and (min-width:481px) {
