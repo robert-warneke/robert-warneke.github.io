@@ -4,9 +4,34 @@ body {
     background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
 }
 
+
+/* Label */
 .label {
     display: none;
 }
+
+/* Buttons */
+button {
+    display: block;
+}
+
+.btn1 {
+    background-color: #6660e0;
+    color: #fff0e0;
+    border-color: #fff0e0;
+    border-width: 4px;
+    border-radius: 12px;
+    font-size: 20px;
+    padding: 10px;
+    height: 75px;
+}
+
+    .btn1:hover {
+        cursor: pointer;
+        background-color: #fff0e0;
+        color: #6660e0;
+        border-color: #6660e0;
+    }
 
 /* Responsive Design - Media Queries */
 
@@ -39,6 +64,11 @@ body {
             width: 100%;
             padding-top: 10px;
             padding-bottom: 10px;
+        }
+
+        .btn1 {
+            margin: 15px auto;
+            width: 75%;
         }
 
 
