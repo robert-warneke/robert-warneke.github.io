@@ -12,6 +12,10 @@ a {
     display: block;
 }
 
+strong {
+    font-weight: bold;
+}
+
     .allura {
         font-family: 'Allura', cursive;
         font-size: 1em;
@@ -42,6 +46,8 @@ body {
         margin-top: 15px;
         margin-bottom: 15px;
         border-style: solid;
+        font-family: 'Titan One', cursive;
+        font-size: 1.3em;
     }
 
         .buttonlinks a:hover {
