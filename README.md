@@ -26,7 +26,7 @@ The above .svg files were optimized with this SVG optimiser by Peter Collingridg
 
 Additional resources used:
 
-Fonts:
+Fonts: 'Dancing Script'
 
     https://fonts.google.com/
 
