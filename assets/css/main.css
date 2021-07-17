@@ -70,11 +70,11 @@ body {
                 }
 
                 #construction hr {
-                    border-style: solid;
-                    border-color: #fff0e09d;
-                    border-width: 1px;
-                    background-color: #fff0e0;
-                    color: #fff0e0;
+                    border-top: 1px solid;
+                    border-bottom: none;
+                    border-left: none;
+                    border-right: none;
+                    border-color: #fff0e077;
                 }
 
             #namelogo {
