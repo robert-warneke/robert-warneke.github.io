@@ -1,8 +1,15 @@
 @import url('fontawesome-all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
 
 a {
     display: block;
 }
+
+    .dancingscript {
+        font-family: 'Dancing Script', cursive;
+        font-size: 1em;
+    }
 
     .label {
         display: none;
@@ -57,6 +64,10 @@ body {
                 text-align: center;
                 color: #fff0e0;
             }
+
+                #construction .dancingscript {
+                    font-size: 2em;
+                }
 
             #namelogo {
                 margin: auto;
