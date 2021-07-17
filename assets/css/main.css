@@ -1,8 +1,9 @@
 @import url('fontawesome-all.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Titan+One&display=swap');
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6, p, a {
     font-size: 1em;
+    font-weight: normal;
 }
 
 a {
@@ -11,6 +12,11 @@ a {
 
     .allura {
         font-family: 'Allura', cursive;
+        font-size: 1em;
+    }
+
+    .titan1 {
+        font-family: 'Titan One', cursive;
         font-size: 1em;
     }
 
@@ -70,6 +76,10 @@ body {
 
                 #construction .allura {
                     font-size: 3em;
+                }
+
+                #construction .titan1 {
+                    font-size: 1.5em;
                 }
 
                 #construction hr {
