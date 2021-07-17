@@ -24,6 +24,7 @@ body {
         border-radius: 20px;
         margin-top: 15px;
         margin-bottom: 15px;
+        border-style: solid;
     }
 
         .buttonlinks a:hover {
