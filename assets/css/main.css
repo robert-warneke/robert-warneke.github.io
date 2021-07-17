@@ -1,5 +1,5 @@
 @import url('fontawesome-all.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Allura&family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Chicle&family=Nerko+One&display=swap');
 
 h1, h2, h3, h4, h5, h6, p, a {
     font-size: 1em;
@@ -21,8 +21,13 @@ strong {
         font-size: 1em;
     }
 
-    .titan1 {
-        font-family: 'Titan One', cursive;
+    .nerko1 {
+        font-family: 'Nerko One', cursive;
+        font-size: 1em;
+    }
+
+    .chicle {
+        font-family: 'Chicle', cursive;
         font-size: 1em;
     }
 
@@ -46,8 +51,8 @@ body {
         margin-top: 15px;
         margin-bottom: 15px;
         border-style: solid;
-        font-family: 'Titan One', cursive;
-        font-size: 1em;
+        font-family: 'Chicle', cursive;
+        font-size: 1.5em;
     }
 
         .buttonlinks a:hover {
@@ -87,7 +92,7 @@ body {
                     font-weight: bold;
                 }
 
-                #construction .titan1 {
+                #construction .nerko1 {
                     font-size: 1.5em;
                 }
 
