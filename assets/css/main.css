@@ -46,7 +46,6 @@ body {
         margin-top: 15px;
         margin-bottom: 15px;
         border-style: solid;
-        font-family: 'Titan One', cursive;
         font-size: 1.3em;
     }
 
@@ -113,7 +112,7 @@ body {
             
                 .buttonlinks .btn1 {
                     margin: 15px auto;
-                    width: 75%;
+                    width: 80%;
                 }
 
 /* TABLET */
