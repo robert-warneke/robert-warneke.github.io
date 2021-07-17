@@ -4,6 +4,7 @@
 h1, h2, h3, h4, h5, h6, p, a {
     font-size: 1em;
     font-weight: normal;
+    margin: 0;
 }
 
 a {
@@ -75,7 +76,8 @@ body {
             }
 
                 #construction .allura {
-                    font-size: 3em;
+                    font-size: 4em;
+                    font-weight: bold;
                 }
 
                 #construction .titan1 {
