@@ -82,17 +82,16 @@ body {
             padding: 5%;
         }
 
-            #construction h1, #construction p {
+            #construction h1, #construction h2, #construction p {
                 text-align: center;
                 color: #fff0e0;
             }
 
                 #construction .allura {
                     font-size: 4em;
-                    font-weight: bold;
                 }
 
-                #construction .nerko1 {
+                #construction .chicle {
                     font-size: 1.5em;
                 }
 
