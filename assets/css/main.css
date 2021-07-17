@@ -1,13 +1,16 @@
 @import url('fontawesome-all.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
 
+h1, h2, h3, h4, p {
+    font-size: 1em;
+}
 
 a {
     display: block;
 }
 
-    .dancingscript {
-        font-family: 'Dancing Script', cursive;
+    .allura {
+        font-family: 'Allura', cursive;
         font-size: 1em;
     }
 
@@ -65,8 +68,8 @@ body {
                 color: #fff0e0;
             }
 
-                #construction .dancingscript {
-                    font-size: 2em;
+                #construction .allura {
+                    font-size: 3em;
                 }
 
                 #construction hr {
