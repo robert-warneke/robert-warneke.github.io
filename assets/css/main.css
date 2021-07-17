@@ -73,16 +73,17 @@ body {
 
 
         /* CONSTRUCTION PAGE  - Maintenance*/
-        #construction {
+        #construction, #contactsection {
             margin: auto;
             width: 80%;
             background-color: #000e0e1a;
             border: dashed;
             border-color: #fff0e0;
             padding: 5%;
+            margin-top: 25px;
         }
 
-            #construction h1, #construction h2, #construction p {
+            #construction h1, #construction h2 {
                 text-align: center;
                 color: #fff0e0;
             }
@@ -110,12 +111,17 @@ body {
                 padding-bottom: 10px;
             }
 
-            .buttonlinks {
+            #contactsection p {
+                text-align: center;
+                color: #fff0e0;
+            }
+
+            #contactsection .buttonlinks {
                 margin: 0 auto;
                 width: 100%;
             }
             
-                .buttonlinks .btn1 {
+                #contactsection .buttonlinks .btn1 {
                     margin: 15px auto;
                     width: 80%;
                 }
