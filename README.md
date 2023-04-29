@@ -18,11 +18,12 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 >
 
 #### *Additional Tools & Resources*
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Canva](https://canva.com)
 - [Snagit](https://www.techsmith.com/screen-capture.html) by [TechSmith](https://www.techsmith.com)
 - [Camtasia](https://www.techsmith.com/video-editor.html) by [TechSmith](https://www.techsmith.com)
 - [SVG Optimizer](https://svgoptimizer.com/)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [TinyURL](https://tinyurl.com/app)
 
 ---
 
