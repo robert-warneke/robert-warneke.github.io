@@ -23,7 +23,7 @@ The above .svg files were optimized with this SVG optimiser by Peter Collingridg
 
 ---------------------------------------------------------------------------------------------------------
 
-Additional resources used:
+## Tools & Resources
 
 Fonts: 'Dancing Script'
 
