@@ -36,11 +36,9 @@ Forms:
 
     https://formspree.io/
 
----------------------------------------------------------------------------------------------------------
+---
 
-Original 'robert-warneke.github.io' repository located at https://github.com/robert-warneke/robert-warneke.github.io
-
-Original 'project-showcase' repository located at https://www.github.com/robert-warneke/project-showcase
+View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io)
 
 Author: Robert Warneke
 
