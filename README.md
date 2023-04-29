@@ -1,13 +1,8 @@
-#robertwarneke.com
----
-
-https://www.robertwarneke.com
-
-https://www.robert-warneke.github.io
+# [robert-warneke.github.io](https://www.robert-warneke.github.io) / [robertwarneke.com](https://www.robertwarneke.com)
 
 Static portfolio website with responsive design, hosted using GitHub Pages.
 
----------------------------------------------------------------------------------------------------------
+---
 
 Art by Robert Warneke:
 
