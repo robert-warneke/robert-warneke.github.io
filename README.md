@@ -1,6 +1,6 @@
 # [robert-warneke.github.io](https://robert-warneke.github.io) / [robertwarneke.com](https://www.robertwarneke.com)
 
-Static portfolio website with responsive design, hosted using GitHub Pages.<br />
+Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).<br />
 View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io)
 
 > Contact [hello@robertwarneke.com](mailto:hello@robertwarneke.com)
