@@ -3,6 +3,10 @@
 Static portfolio website with responsive design, hosted using GitHub Pages.<br />
 View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io)
 
+> Contact [hello@robertwarneke.com](mailto:hello@robertwarneke.com)
+
+> Connect with Robert on [LinkedIn](https://linkedin.com/in/robert-warneke)
+
 ---
 
 ## Tools & Resources
@@ -15,13 +19,6 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 - [Canva](https://canva.com)
 - [SVG Optimizer](https://svgoptimizer.com/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
----
-## Robert Warneke
-
-Contact [hello@robertwarneke.com](mailto:hello@robertwarneke.com)
-
-Connect with Robert on [LinkedIn](https://linkedin.com/in/robert-warneke)
 
 ---
 
