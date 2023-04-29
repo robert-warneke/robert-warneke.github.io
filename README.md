@@ -25,6 +25,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 - [SVG Optimizer](https://svgoptimizer.com/)
 - [TinyURL](https://tinyurl.com/app)
 - [QRCode Monkey](https://www.qrcode-monkey.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ---
 
