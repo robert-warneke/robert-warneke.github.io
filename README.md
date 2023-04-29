@@ -5,37 +5,12 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ---
 
-Art by Robert Warneke:
-
-    favicon.svg (root/assets/img/svg/favicon.svg)
-
-    namelogo.svg (root/assets/img/svg/namelogo.svg)
-
-    wlogo.svg (root/assets/img/svg/wlogo.svg)
-
-    wlogowhite.svg (root/assets/img/svg/wlogowhite.svg)
-
-    wlogo.png (root/assets/img/png/wlogo.png)
-
-The above .svg files were optimized with this SVG optimiser by Peter Collingridge:
-
-    https://petercollingridge.appspot.com/svg-optimiser
-
----------------------------------------------------------------------------------------------------------
-
 ## Tools & Resources
 
-Fonts: 'Dancing Script'
-
-    https://fonts.google.com/
-
-Icons:
-
-    https://fontawesome.com/
-
-Forms:
-
-    https://formspree.io/
+- Fonts: https://fonts.google.com/
+- Icons: https://fontawesome.com/
+- Forms: https://formspree.io/
+- SVG optimiser by Peter Collingridge: https://petercollingridge.appspot.com/svg-optimiser
 
 ---
 
