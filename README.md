@@ -24,6 +24,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 - [Camtasia](https://www.techsmith.com/video-editor.html) by [TechSmith](https://www.techsmith.com)
 - [SVG Optimizer](https://svgoptimizer.com/)
 - [TinyURL](https://tinyurl.com/app)
+- [QRCode Monkey](https://www.qrcode-monkey.com/)
 
 ---
 
