@@ -17,7 +17,9 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-#### Contact [hello@robertwarneke.com](mailto:hello@robertwarneke.com)
+## Robert Warneke
+
+Contact [hello@robertwarneke.com](mailto:hello@robertwarneke.com)
 
 Connect with Robert on [LinkedIn](https://linkedin.com/in/robert-warneke)
 
