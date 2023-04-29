@@ -19,6 +19,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 #### *Additional Tools & Resources*
 - [Canva](https://canva.com)
+- [Snagit](https://www.techsmith.com/screen-capture.html) by [TechSmith](https://www.techsmith.com)
 - [SVG Optimizer](https://svgoptimizer.com/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
