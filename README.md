@@ -7,27 +7,9 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ## Tools & Resources
 
-- Fonts: https://fonts.google.com/
-- Icons: https://fontawesome.com/
-- Forms: https://formspree.io/
-- SVG optimiser by Peter Collingridge: https://petercollingridge.appspot.com/svg-optimiser
+- Fonts: [Google Fonts](https://fonts.google.com)
+- Icons: [Font Awesome](https://fontawesome.com) ; [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons)
+- Forms: [Formspree](https://formspree.io)
 
----
-
-Author: Robert Warneke
-
-Please feel free to contact me with comments, questions, concerns, business inquiries, etc.
-
-    contact@robertwarneke.com
-
-LinkedIn:
-
-    https://www.linkedin.com/in/robert-warneke
-
-GitHub:
-
-    https://www.github.com/robert-warneke
-
-Twitter:
-    
-    https://www.twitter.com/robert_warneke
+### Additional Tools & Resources
+- [SVG optimiser by Peter Collingridge](https://petercollingridge.appspot.com/svg-optimiser)
