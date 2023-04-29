@@ -8,7 +8,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ---
 
-## Tools & Resources
+## 🛠️ Tools & Resources
 
 - **Fonts:** [Google Fonts](https://fonts.google.com) ; [Adobe Fonts](https://fonts.adobe.com/)
 - **Icons:** [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons) ; [Font Awesome](https://fontawesome.com)
