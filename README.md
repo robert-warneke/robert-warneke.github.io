@@ -14,3 +14,4 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 ### Additional Tools & Resources
 - [Canva](https://canva.com)
 - [SVG Optimizer](https://svgoptimizer.com/)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
