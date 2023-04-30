@@ -20,12 +20,14 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 #### *Additional Tools & Resources*
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Canva](https://canva.com)
+- [Inkscape](https://inkscape.org/)
 - [Snagit](https://www.techsmith.com/screen-capture.html) by [TechSmith](https://www.techsmith.com)
 - [Camtasia](https://www.techsmith.com/video-editor.html) by [TechSmith](https://www.techsmith.com)
 - [SVG Optimizer](https://svgoptimizer.com/)
 - [TinyURL](https://tinyurl.com/app)
 - [QRCode Monkey](https://www.qrcode-monkey.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [W3Schools](https://www.w3schools.com/)
 
 ---
 
