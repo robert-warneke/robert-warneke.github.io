@@ -1,5 +1,14 @@
 # [robert-warneke.github.io](https://robert-warneke.github.io) / [robertwarneke.com](https://www.robertwarneke.com)
 
+<p>
+<a href="https://robertwarneke.com">
+<img src="https://custom-icon-badges.demolab.com/badge/Website-6660e0.svg?logo=robert-warneke-wlogo">
+</a>
+<a href="mailto:hello@robertwarneke.com">
+<img src="https://custom-icon-badges.demolab.com/badge/Email-6660e0.svg?logo=gmail&logoColor=white">
+</a>
+</p>
+
 Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).<br />
 View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
 
@@ -19,6 +28,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 #### *Additional Tools & Resources*
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Shields.io](https://shields.io/)
 - [Canva](https://canva.com)
 - [Inkscape](https://inkscape.org/)
 - [Snagit](https://www.techsmith.com/screen-capture.html) by [TechSmith](https://www.techsmith.com)
