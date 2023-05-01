@@ -12,19 +12,19 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ## Pages
 
-### 1. Robert Warneke | Home
+### 1. `index.html` Robert Warneke | Home
   - [Webpage](#)
   - [Raw](#)
 
-### 2. Robert Warneke | About
+### 2. `about.html` Robert Warneke | About
   - [Webpage](#)
   - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/about.html)
 
-### 3. Robert Warneke | Projects
+### 3. `projects.html` Robert Warneke | Projects
   - [Webpage](#)
   - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/projects.html)
 
-### 4. Robert Warneke | Contact
+### 4. `contact.html` Robert Warneke | Contact
   - [Webpage](#)
   - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/contact.html)
 
