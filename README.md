@@ -49,4 +49,9 @@ If you like this project, give it a ⭐!
 
 ---
 
+![](https://custom-icon-badges.demolab.com/badge/-HTML5-e34c26?style=for-the-badge&logoColor=white&logo=html5)
+![](https://custom-icon-badges.demolab.com/badge/-CSS3-264de4?style=for-the-badge&logoColor=white&logo=css3)
+![](https://custom-icon-badges.demolab.com/badge/-javascript-323330?style=for-the-badge&logoColor=white&logo=javascript)
+![](https://custom-icon-badges.demolab.com/badge/-markdown-269ee9?style=for-the-badge&logoColor=white&logo=markdown)
+
 Made with ❤️
