@@ -1,6 +1,9 @@
 # [robert-warneke.github.io](https://robert-warneke.github.io) / [robertwarneke.com](https://www.robertwarneke.com)
 
-<p align="left">
+`robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).<br />
+View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
+
+<p>
 <a href="https://robertwarneke.com">
 <img src="https://custom-icon-badges.demolab.com/badge/Website-6660e0.svg?logo=robert-warneke-wlogo&logoColor=white">
 </a>
@@ -14,11 +17,6 @@
 <img src="https://custom-icon-badges.demolab.com/badge/GitHub-333.svg?logo=github&logoColor=white">
 </a>
 </p>
-
-`robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).<br />
-View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
-
-> Contact [hello@robertwarneke.com](mailto:hello@robertwarneke.com)<br />
 
 ---
 
