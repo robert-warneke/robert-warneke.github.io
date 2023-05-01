@@ -27,6 +27,8 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
   
 * `Shields & Badges` :
   - [Shields.io](https://shields.io/) ; [Shields.io GitHub](https://github.com/badges/shields)
+  - [Awesome Badges](https://github.com/badges/awesome-badges)
+  - [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
 
 * `Forms` : 
   - [Formspree](https://formspree.io)
