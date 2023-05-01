@@ -1,6 +1,6 @@
 # [robert-warneke.github.io](https://robert-warneke.github.io) / [robertwarneke.com](https://www.robertwarneke.com)
 
-<p>
+<p align="left">
 <a href="https://robertwarneke.com">
 <img src="https://custom-icon-badges.demolab.com/badge/Website-6660e0.svg?logo=robert-warneke-wlogo&logoColor=white">
 </a>
@@ -9,6 +9,9 @@
 </a>
 <a href="https://linkedin.com/in/robert-warneke">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/robert-warneke">
+<img src="https://custom-icon-badges.demolab.com/badge/GitHub-333.svg?logo=github&logoColor=white">
 </a>
 </p>
 
