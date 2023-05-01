@@ -55,7 +55,8 @@ Made with ❤️
 ## CSS
 
 1. `assets/css/main.css`
-    - [Raw](#)
+    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/css/main.css)
+    - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/css/main.css)
 
 2. `assets/fontawesome/css/all.css`
     - > &#9432; Icon support provided by [Font Awesome](https://fontawesome.com)
@@ -64,7 +65,8 @@ Made with ❤️
 
 1. `assets/js/main.js`
 
-    - [Raw](#)
+    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/js/main.js)
+    - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/js/main.js)
 
 ---
 
