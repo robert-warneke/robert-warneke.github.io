@@ -1,10 +1,5 @@
 # [robert-warneke.github.io](https://robert-warneke.github.io) / [robertwarneke.com](https://www.robertwarneke.com)
 
-[![](https://custom-icon-badges.demolab.com/badge/robertwarneke.com-6660e0.svg?logo=robert-warneke-wlogo&logoColor=white)](https://robertwarneke.com)
-[![](https://custom-icon-badges.demolab.com/badge/GitHub-333.svg?logo=github&logoColor=white)](https://github.com/robert-warneke)
-[![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-warneke)
-[![](https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-6660e0.svg?logo=gmail&logoColor=white)](mailto:hello@robertwarneke.com)
-
 `robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).
 
 View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
@@ -45,6 +40,15 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 - [QRCode Monkey](https://www.qrcode-monkey.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [W3Schools](https://www.w3schools.com/)
+
+---
+
+## Contact and Connect
+
+[![](https://custom-icon-badges.demolab.com/badge/robertwarneke.com-6660e0.svg?logo=robert-warneke-wlogo&logoColor=white)](https://robertwarneke.com)
+[![](https://custom-icon-badges.demolab.com/badge/GitHub-333.svg?logo=github&logoColor=white)](https://github.com/robert-warneke)
+[![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-warneke)
+[![](https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-6660e0.svg?logo=gmail&logoColor=white)](mailto:hello@robertwarneke.com)
 
 ---
 
