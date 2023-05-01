@@ -17,6 +17,19 @@ Made with ❤️
 
 ---
 
+## Table of Contents
+
+- [Pages](https://github.com/robert-warneke/robert-warneke.github.io#pages)
+- [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
+- [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
+- [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
+    - [Additional Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#additional-tools--resources)
+- [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact-and-connect)
+- [Support](https://github.com/robert-warneke/robert-warneke.github.io#support)
+
+
+---
+
 ## Pages
 
 1. `index.html`: Robert Warneke | Home
@@ -84,7 +97,7 @@ Made with ❤️
 
 ---
 
-## 📫 Contact and Connect
+## 📫 Contact & Connect
 [![](https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-6660e0.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@robertwarneke.com)
 
 [![](https://custom-icon-badges.demolab.com/badge/robertwarneke.com-6660e0.svg?style=for-the-badge&logo=robert-warneke-wlogo&logoColor=white)](https://robertwarneke.com)
