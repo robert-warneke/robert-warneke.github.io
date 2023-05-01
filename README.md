@@ -16,15 +16,15 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
   - [Webpage](#)
   - [Raw](#)
 
-2. `about.html`: Robert Warneke | About
+2. `rw/about.html`: Robert Warneke | About
   - [Webpage](#)
   - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/about.html)
 
-3. `projects.html`: Robert Warneke | Projects
+3. `rw/projects.html`: Robert Warneke | Projects
   - [Webpage](#)
   - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/projects.html)
 
-4. `contact.html`: Robert Warneke | Contact
+4. `rw/contact.html`: Robert Warneke | Contact
   - [Webpage](#)
   - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/contact.html)
 
@@ -32,17 +32,17 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ## CSS
 
-1. `main.css`
+1. `assets/css/main.css`
     - [Raw](#)
 
-2. `all.css`
+2. `assets/fontawesome/css/all.css`
     - > &#9432; Icon support provided by [Font Awesome](https://fontawesome.com)
 
 ---
 
 ## Javascript
 
-1. `main.js`
+1. `assets/js/main.js`
 
     - [Raw](#)
 
