@@ -15,6 +15,12 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ---
 
+## Support
+
+If you like this project, give it a ⭐!
+
+---
+
 ## 🛠️ Tools & Resources
 
 - `Fonts` : [Google Fonts](https://fonts.google.com) ; [Adobe Fonts](https://fonts.adobe.com/)
@@ -36,12 +42,6 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 - [QRCode Monkey](https://www.qrcode-monkey.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [W3Schools](https://www.w3schools.com/)
-
----
-
-## Support
-
-If you like this project, give it a ⭐!
 
 ---
 
