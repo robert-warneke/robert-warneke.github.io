@@ -5,7 +5,8 @@
 [![](https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-warneke)
 [![](https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-6660e0.svg?logo=gmail&logoColor=white)](mailto:hello@robertwarneke.com)
 
-`robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).<br />
+`robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).
+
 View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
 
 [![](https://custom-icon-badges.demolab.com/github/last-commit/robert-warneke/robert-warneke.github.io?logo=history&logoColor=white)](https://github.com/robert-warneke/robert-warneke.github.io/commits/main/README.md)
