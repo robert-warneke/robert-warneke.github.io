@@ -4,6 +4,13 @@
 
 View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
 
+Made with ❤️
+
+![](https://custom-icon-badges.demolab.com/badge/-HTML5-e34c26?style=for-the-badge&logoColor=white&logo=html5)
+![](https://custom-icon-badges.demolab.com/badge/-CSS3-264de4?style=for-the-badge&logoColor=white&logo=css3)
+![](https://custom-icon-badges.demolab.com/badge/-javascript-323330?style=for-the-badge&logoColor=white&logo=javascript)
+![](https://custom-icon-badges.demolab.com/badge/-markdown-269ee9?style=for-the-badge&logoColor=white&logo=markdown)
+
 [![](https://custom-icon-badges.demolab.com/github/last-commit/robert-warneke/robert-warneke.github.io?logo=history&logoColor=white)](https://github.com/robert-warneke/robert-warneke.github.io/commits/main/README.md)
 ![](https://custom-icon-badges.demolab.com/github/stars/robert-warneke/robert-warneke.github.io?logo=star&style=social&logoColor=black)
 ![](https://custom-icon-badges.demolab.com/github/watchers/robert-warneke/robert-warneke.github.io?logo=eye&style=social&logoColor=black)
@@ -93,12 +100,3 @@ If you like this project, give it a ⭐!
 *Buy me a cup of coffee!*
 
 [![](https://custom-icon-badges.demolab.com/badge/PayPal-3b7bbf.svg?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=EJ232D75ZWAKU&no_recurring=0&currency_code=USD)
-
----
-
-Made with ❤️
-
-![](https://custom-icon-badges.demolab.com/badge/-HTML5-e34c26?style=for-the-badge&logoColor=white&logo=html5)
-![](https://custom-icon-badges.demolab.com/badge/-CSS3-264de4?style=for-the-badge&logoColor=white&logo=css3)
-![](https://custom-icon-badges.demolab.com/badge/-javascript-323330?style=for-the-badge&logoColor=white&logo=javascript)
-![](https://custom-icon-badges.demolab.com/badge/-markdown-269ee9?style=for-the-badge&logoColor=white&logo=markdown)
