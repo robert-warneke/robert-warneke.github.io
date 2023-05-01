@@ -15,16 +15,6 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ---
 
-## Support
-
-If you like this project, give it a ⭐!
-
-*Buy me a cup of coffee!*
-
-[![](https://custom-icon-badges.demolab.com/badge/PayPal-3b7bbf.svg?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=EJ232D75ZWAKU&no_recurring=0&currency_code=USD)
-
----
-
 ## 🛠️ Tools & Resources
 
 - `Fonts` : [Google Fonts](https://fonts.google.com) ; [Adobe Fonts](https://fonts.adobe.com/)
@@ -46,6 +36,16 @@ If you like this project, give it a ⭐!
 - [QRCode Monkey](https://www.qrcode-monkey.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [W3Schools](https://www.w3schools.com/)
+
+---
+
+## Support
+
+If you like this project, give it a ⭐!
+
+*Buy me a cup of coffee!*
+
+[![](https://custom-icon-badges.demolab.com/badge/PayPal-3b7bbf.svg?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=EJ232D75ZWAKU&no_recurring=0&currency_code=USD)
 
 ---
 
