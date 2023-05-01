@@ -28,8 +28,6 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
   - [Webpage](#)
   - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/contact.html)
 
----
-
 ## CSS
 
 1. `assets/css/main.css`
@@ -37,8 +35,6 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 2. `assets/fontawesome/css/all.css`
     - > &#9432; Icon support provided by [Font Awesome](https://fontawesome.com)
-
----
 
 ## Javascript
 
