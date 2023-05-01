@@ -24,7 +24,7 @@ Made with ❤️
 - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
 - [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
     - [Additional Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#additional-tools--resources)
-- [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact-and-connect)
+- [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact--connect)
 - [Support](https://github.com/robert-warneke/robert-warneke.github.io#support)
 
 
