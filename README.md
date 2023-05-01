@@ -26,7 +26,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
   - [Font Awesome](https://fontawesome.com)
   
 * `Shields & Badges` :
-  - [Shields.io](https://shields.io/)
+  - [Shields.io](https://shields.io/) ; [Shields.io GitHub](https://github.com/badges/shields)
 
 * `Forms` : 
   - [Formspree](https://formspree.io)
