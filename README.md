@@ -17,16 +17,23 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ## 🛠️ Tools & Resources
 
-- `Fonts` : [Google Fonts](https://fonts.google.com) ; [Adobe Fonts](https://fonts.adobe.com/)
->
-- `Icons` : [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons) ; [Font Awesome](https://fontawesome.com)
->
-- `Forms` : [Formspree](https://formspree.io)
->
+* `Fonts` : 
+  - [Google Fonts](https://fonts.google.com)
+  - [Adobe Fonts](https://fonts.adobe.com/)
+
+* `Icons` : 
+  - [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons)
+  - [Font Awesome](https://fontawesome.com)
+  
+* `Shields & Badges` :
+  - - [Shields.io](https://shields.io/)
+
+* `Forms` : 
+  - [Formspree](https://formspree.io)
+
 
 #### *Additional Tools & Resources*
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Shields.io](https://shields.io/)
 - [Canva](https://canva.com)
 - [Inkscape](https://inkscape.org/)
 - [Snagit](https://www.techsmith.com/screen-capture.html) by [TechSmith](https://www.techsmith.com)
