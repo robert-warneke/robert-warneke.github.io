@@ -36,7 +36,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
     - [Raw](#)
 
 2. `all.css`
-> - &#9432; Icon support provided by [Font Awesome](https://fontawesome.com)
+    - > &#9432; Icon support provided by [Font Awesome](https://fontawesome.com)
 
 ---
 
