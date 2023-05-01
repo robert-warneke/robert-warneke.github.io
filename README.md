@@ -11,7 +11,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 ![](https://custom-icon-badges.demolab.com/github/stars/robert-warneke/robert-warneke.github.io?logo=star&style=social&logoColor=black)
 ![](https://custom-icon-badges.demolab.com/github/watchers/robert-warneke/robert-warneke.github.io?logo=eye&style=social&logoColor=black)
 
-![](https://custom-icon-badges.demolab.com/github/last-commit/robert-warneke/robert-warneke.github.io?logo=history&logoColor=white)
+[![](https://custom-icon-badges.demolab.com/github/last-commit/robert-warneke/robert-warneke.github.io?logo=history&logoColor=white)](https://github.com/robert-warneke/robert-warneke.github.io/commits/main/README.md)
 
 ---
 
