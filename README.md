@@ -17,11 +17,11 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ## 🛠️ Tools & Resources
 
-- **Fonts:** [Google Fonts](https://fonts.google.com) ; [Adobe Fonts](https://fonts.adobe.com/)
+- `Fonts` : [Google Fonts](https://fonts.google.com) ; [Adobe Fonts](https://fonts.adobe.com/)
 >
-- **Icons:** [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons) ; [Font Awesome](https://fontawesome.com)
+- `Icons` : [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons) ; [Font Awesome](https://fontawesome.com)
 >
-- **Forms:** [Formspree](https://formspree.io)
+- `Forms` : [Formspree](https://formspree.io)
 >
 
 #### *Additional Tools & Resources*
