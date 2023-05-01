@@ -19,7 +19,7 @@ Made with ❤️
 
 ## Table of Contents
 
-- [Pages](https://github.com/robert-warneke/robert-warneke.github.io#pages)
+- [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
 - [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
 - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
 - [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
@@ -30,7 +30,7 @@ Made with ❤️
 
 ---
 
-## Pages
+## HTML
 
 1. `index.html`: Robert Warneke | Home
     - [Webpage](https://robert-warneke.github.io/index.html)
