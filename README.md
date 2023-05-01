@@ -3,20 +3,10 @@
 `robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).<br />
 View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
 
-<p>
-<a href="https://robertwarneke.com">
-<img src="https://custom-icon-badges.demolab.com/badge/Website-6660e0.svg?logo=robert-warneke-wlogo&logoColor=white">
-</a>
-<a href="mailto:hello@robertwarneke.com">
-<img src="https://custom-icon-badges.demolab.com/badge/Email-6660e0.svg?logo=gmail&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/robert-warneke">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/robert-warneke">
-<img src="https://custom-icon-badges.demolab.com/badge/GitHub-333.svg?logo=github&logoColor=white">
-</a>
-</p>
+![https://robertwarneke.com](https://custom-icon-badges.demolab.com/badge/Website-6660e0.svg?logo=robert-warneke-wlogo&logoColor=white)
+![mailto:hello@robertwarneke.com](https://custom-icon-badges.demolab.com/badge/Email-6660e0.svg?logo=gmail&logoColor=white)
+![https://linkedin.com/in/robert-warneke](https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?logo=linkedin&logoColor=white)
+![https://github.com/robert-warneke](https://custom-icon-badges.demolab.com/badge/GitHub-333.svg?logo=github&logoColor=white)
 
 ---
 
