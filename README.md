@@ -21,7 +21,7 @@ If you like this project, give it a ⭐!
 
 *Buy me a cup of coffee!*
 
-![https://www.paypal.com/donate/?business=EJ232D75ZWAKU&no_recurring=0&currency_code=USD](https://custom-icon-badges.demolab.com/badge/PayPal-3b7bbf.svg?logo=paypal&logoColor=white)
+[![](https://custom-icon-badges.demolab.com/badge/PayPal-3b7bbf.svg?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=EJ232D75ZWAKU&no_recurring=0&currency_code=USD)
 
 ---
 
