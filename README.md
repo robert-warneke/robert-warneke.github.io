@@ -1,4 +1,4 @@
-# [robert-warneke.github.io](https://robert-warneke.github.io) / [robertwarneke.com](https://www.robertwarneke.com)
+# robert-warneke.github.io
 
 `robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).
 
