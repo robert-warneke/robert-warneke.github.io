@@ -86,8 +86,6 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 [![](https://custom-icon-badges.demolab.com/badge/GitHub-333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robert-warneke)
 [![](https://custom-icon-badges.demolab.com/badge/Stack%20Overflow-f48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21730155/robert-warneke)
 
----
-
 ## Support
 
 If you like this project, give it a ⭐!
