@@ -43,7 +43,7 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 
 ---
 
-## Contact and Connect
+## 📫 Contact and Connect
 [![](https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-6660e0.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@robertwarneke.com)
 
 [![](https://custom-icon-badges.demolab.com/badge/robertwarneke.com-6660e0.svg?style=for-the-badge&logo=robert-warneke-wlogo&logoColor=white)](https://robertwarneke.com)
