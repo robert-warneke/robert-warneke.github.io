@@ -38,4 +38,11 @@ View repository at [github.com/robert-warneke/robert-warneke.github.io](https://
 - [W3Schools](https://www.w3schools.com/)
 
 ---
+
+## Support
+
+If you like this project, give it a ⭐!
+
+---
+
 Made with ❤️
