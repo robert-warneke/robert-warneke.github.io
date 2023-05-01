@@ -34,18 +34,22 @@ Made with ❤️
 
 1. `index.html`: Robert Warneke | Home
     - [Webpage](https://robert-warneke.github.io/index.html)
+    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/index.html)
     - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/index.html)
 
 2. `rw/about.html`: Robert Warneke | About
     - [Webpage](https://robert-warneke.github.io/rw/about.html)
+    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/rw/about.html)
     - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/about.html)
 
 3. `rw/projects.html`: Robert Warneke | Projects
     - [Webpage](https://robert-warneke.github.io/rw/projects.html)
+    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/rw/projects.html)
     - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/projects.html)
 
 4. `rw/contact.html`: Robert Warneke | Contact
     - [Webpage](https://robert-warneke.github.io/rw/contact.html)
+    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/rw/contact.html)
     - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/contact.html)
 
 ## CSS
