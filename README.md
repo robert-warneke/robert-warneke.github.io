@@ -22,7 +22,7 @@ Made with ❤️
 - [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
 - [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
 - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
-- [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#branding)
+- [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#robert-warneke-branding)
 - [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
     - [Additional Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#additional-tools--resources)
 - [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact--connect)
