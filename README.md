@@ -33,7 +33,7 @@ Made with ❤️
 ## HTML
 
 <details>
-<summary><h6> 1. <code>index.html</code>:</h6></summary>
+<summary><h6> <code>index.html</code>:</h6></summary>
 
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Webpage-6660e0?style=for-the-badge&logoColor=white&logo=robert-warneke-wlogo)](https://robert-warneke.github.io/index.html)
 
@@ -43,7 +43,7 @@ Made with ❤️
 
 </details>
 <details>
-<summary><h6> 2. <code>rw/about.html</code>:</h6></summary>
+<summary><h6> <code>rw/about.html</code>:</h6></summary>
 
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Webpage-6660e0?style=for-the-badge&logoColor=white&logo=robert-warneke-wlogo)](https://robert-warneke.github.io/rw/about.html)
 
