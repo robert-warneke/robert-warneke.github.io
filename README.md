@@ -70,7 +70,7 @@ Made with ❤️
     - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/css/main.css)
 
 2. `assets/fontawesome/css/all.css`
-    - > &#9432; Icon support provided by [Font Awesome](https://fontawesome.com)
+    - > &#9432; *Icon support file provided by [Font Awesome](https://fontawesome.com)*
 
 ## Javascript
 
