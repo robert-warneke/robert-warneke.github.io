@@ -22,9 +22,9 @@ Made with ❤️
 - [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
 - [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
 - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
-- [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#robert-warneke-branding)
 - [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
     - [Additional Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#additional-tools--resources)
+- [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#robert-warneke-branding)
 - [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact--connect)
 - [Support](https://github.com/robert-warneke/robert-warneke.github.io#support)
 
@@ -81,13 +81,6 @@ Made with ❤️
 
 ---
 
-## Robert Warneke Branding
-
-[![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-dark-mode-only)
-[![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=000000)](https://github.com/robert-warneke/robert-warneke-branding#gh-light-mode-only)
-
----
-
 ## 🛠️ Tools & Resources
 
 * `Fonts` : 
@@ -118,6 +111,13 @@ Made with ❤️
 - [QRCode Monkey](https://www.qrcode-monkey.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [W3Schools](https://www.w3schools.com/)
+
+---
+
+## Robert Warneke Branding
+
+[![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-dark-mode-only)
+[![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=000000)](https://github.com/robert-warneke/robert-warneke-branding#gh-light-mode-only)
 
 ---
 
