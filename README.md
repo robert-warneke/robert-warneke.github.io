@@ -33,9 +33,10 @@ Made with ❤️
 ## HTML
 
 1. `index.html`: Robert Warneke | Home
-    - [Webpage](https://robert-warneke.github.io/index.html)
-    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/index.html)
-    - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/index.html)
+
+[![](https://custom-icon-badges.demolab.com/badge/-View%20Webpage-6660e0?style=for-the-badge&logoColor=white&logo=robert-warneke-wlogo)](https://robert-warneke.github.io/index.html)
+[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/index.html)
+[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/index.html)
 
 2. `rw/about.html`: Robert Warneke | About
     - [Webpage](https://robert-warneke.github.io/rw/about.html)
