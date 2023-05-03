@@ -83,7 +83,7 @@ Made with ❤️
 
 ## Robert Warneke Branding
 
-[![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-light-mode-only)
+[![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-dark-mode-only)
 
 ---
 
