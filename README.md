@@ -122,7 +122,7 @@ Made with ❤️
 ---
 
 ## 📫 Contact & Connect
-[![](https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-yellow.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@robertwarneke.com)
+[![](https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@robertwarneke.com)
 
 [![](https://custom-icon-badges.demolab.com/badge/robertwarneke.com-6660e0.svg?style=for-the-badge&logo=robert-warneke-wlogo&logoColor=white)](https://robertwarneke.com)
 
