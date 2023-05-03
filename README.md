@@ -33,7 +33,7 @@ Made with ❤️
 ## HTML
 
 <details>
-<summary> 1. `index.html`: Robert Warneke | Home</summary><br />
+<summary> 1. <code>index.html</code>: Robert Warneke | Home</summary><br />
 
 [![](https://custom-icon-badges.demolab.com/badge/-View%20Webpage-6660e0?style=for-the-badge&logoColor=white&logo=robert-warneke-wlogo)](https://robert-warneke.github.io/index.html)
 [![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/index.html)
