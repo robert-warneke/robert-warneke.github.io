@@ -22,11 +22,11 @@ Made with ❤️
 - [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
 - [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
 - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
+- [Branding](https://github.com/robert-warneke/robert-warneke.github.io#branding)
 - [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
     - [Additional Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#additional-tools--resources)
 - [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact--connect)
 - [Support](https://github.com/robert-warneke/robert-warneke.github.io#support)
-
 
 ---
 
@@ -78,6 +78,10 @@ Made with ❤️
 
     - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/js/main.js)
     - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/js/main.js)
+
+---
+
+## Branding
 
 ---
 
