@@ -22,7 +22,7 @@ Made with ❤️
 - [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
 - [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
 - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
-- [Branding](https://github.com/robert-warneke/robert-warneke.github.io#branding)
+- [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#branding)
 - [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
     - [Additional Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#additional-tools--resources)
 - [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact--connect)
@@ -81,7 +81,9 @@ Made with ❤️
 
 ---
 
-## Branding
+## Robert Warneke Branding
+
+[![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-light-mode-only)
 
 ---
 
