@@ -35,6 +35,7 @@ Made with ❤️
 
 #### 💡 Light/Dark Modes
 
+`.js`
 ```
 const toggleMode = document.getElementById('mode-toggle');
 const body = document.body;
