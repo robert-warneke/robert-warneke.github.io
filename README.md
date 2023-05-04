@@ -35,6 +35,13 @@ Made with ❤️
 
 #### 💡 Light/Dark Mode
 
+`.html` example:
+```
+<button id="mode-toggle" class="toggle">
+    Toggle Mode
+</button>
+```
+
 `.js` example:
 ```
 const toggleMode = document.getElementById('mode-toggle');
