@@ -32,7 +32,8 @@ Made with ❤️
 ---
 
 ## Features
-- Light/Dark Modes
+
+#### 💡 Light/Dark Modes
 
 ```
 const toggleMode = document.getElementById('mode-toggle');
