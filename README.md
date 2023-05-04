@@ -19,6 +19,7 @@ Made with ❤️
 
 ## Table of Contents
 
+- [Features](#)
 - [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
 - [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
 - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
@@ -27,6 +28,11 @@ Made with ❤️
 - [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#robert-warneke-branding)
 - [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact--connect)
 - [Support](https://github.com/robert-warneke/robert-warneke.github.io#support)
+
+---
+
+## Features
+- Light/Dark Modes
 
 ---
 
