@@ -36,7 +36,7 @@ Made with ❤️
 #### 💡 Light/Dark Mode
 
 `.html` example:
-> Start by adding a button with the id `mode-toggle`.
+> Start by adding a button with an id of `mode-toggle`.
 ```
 <button id="mode-toggle" class="toggle">
     Toggle Mode
