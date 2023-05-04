@@ -44,7 +44,7 @@ Made with ❤️
 ```
 
 `.js` example:
->
+> Add the following Javascript to your `.js` file.
 ```
 const toggleMode = document.getElementById('mode-toggle');
 const body = document.body;
