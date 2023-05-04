@@ -55,7 +55,6 @@ toggleMode.addEventListener('click', () => {
     localStorage.setItem('mode', 'light');
   }
 });
-
 ```
 
 ---
