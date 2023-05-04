@@ -35,7 +35,7 @@ Made with ❤️
 
 #### 💡 Light/Dark Mode
 
-`.js`:
+`.js` example:
 ```
 const toggleMode = document.getElementById('mode-toggle');
 const body = document.body;
@@ -57,6 +57,14 @@ toggleMode.addEventListener('click', () => {
     localStorage.setItem('mode', 'light');
   }
 });
+```
+
+`.css` example:
+```
+.dark-mode-active {
+    background-color: #333;
+    color: #F5F5F5;
+}
 ```
 
 ---
