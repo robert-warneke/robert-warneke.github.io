@@ -34,6 +34,7 @@ Made with ❤️
 ## Features
 
 ### 💡 Light/Dark Mode
+*Try it yourself!*
 
 `.html` example:
 > Start by adding a button with an id of `mode-toggle`.
