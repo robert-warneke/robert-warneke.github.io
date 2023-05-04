@@ -34,6 +34,30 @@ Made with ❤️
 ## Features
 - Light/Dark Modes
 
+```
+const toggleMode = document.getElementById('mode-toggle');
+const body = document.body;
+
+
+// check if mode exists in localStorage
+const currentMode = localStorage.getItem('mode');
+if (currentMode === 'dark') {
+  body.classList.add('dark-mode-active');
+}
+
+toggleMode.addEventListener('click', () => {
+  body.classList.toggle('dark-mode-active');
+  
+  // store current mode in localStorage
+  if (body.classList.contains('dark-mode-active')) {
+    localStorage.setItem('mode', 'dark');
+  } else {
+    localStorage.setItem('mode', 'light');
+  }
+});
+
+```
+
 ---
 
 ## HTML
