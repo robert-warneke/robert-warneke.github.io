@@ -36,6 +36,7 @@ Made with ❤️
 #### 💡 Light/Dark Mode
 
 `.html` example:
+> Start by adding a button with the id `mode-toggle`.
 ```
 <button id="mode-toggle" class="toggle">
     Toggle Mode
@@ -43,6 +44,7 @@ Made with ❤️
 ```
 
 `.js` example:
+>
 ```
 const toggleMode = document.getElementById('mode-toggle');
 const body = document.body;
@@ -67,6 +69,7 @@ toggleMode.addEventListener('click', () => {
 ```
 
 `.css` example:
+>
 ```
 .dark-mode-active {
     background-color: #333;
