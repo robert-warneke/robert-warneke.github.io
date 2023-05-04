@@ -33,7 +33,7 @@ Made with ❤️
 
 ## Features
 
-#### 💡 Light/Dark Modes
+#### 💡 Light/Dark Mode
 
 `.js`
 ```
