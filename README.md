@@ -40,7 +40,7 @@ Made with ❤️
 
 
 
-> 1. Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle`.
+1. Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle`.
     
 `.html` example:
 ```
@@ -51,7 +51,7 @@ Made with ❤️
 
 
 
-> 2. Add the following ***Javascript*** to your `.js` file.
+2. Add the following ***Javascript*** to your `.js` file.
 
 `.js` example:
 ```
@@ -79,7 +79,7 @@ toggleMode.addEventListener('click', () => {
     
     
     
-> 3. In your `.css` file, use the ***CSS*** selector `.dark-mode-active` to define your desired properties.
+3. In your `.css` file, use the ***CSS*** selector `.dark-mode-active` to define your desired properties.
     
 `.css` example:
 ```
@@ -90,9 +90,9 @@ toggleMode.addEventListener('click', () => {
 ```
 
 
-> 4. Link to your `.css` stylesheet inside the `<head>` `</head>` tag of your `.html` file.
->
-> &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file.
+4. Link to your `.css` stylesheet inside the `<head>` `</head>` tag of your `.html` file.
+
+>       &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file.
 
 `.html` `<link>` stylesheet example:
 ```
@@ -101,8 +101,8 @@ toggleMode.addEventListener('click', () => {
 
 
 
-> 5. Copy and paste this `<script>` `</script>` before the closing `</body>` tag in your `.html` file.
->
+5. Copy and paste this `<script>` `</script>` before the closing `</body>` tag in your `.html` file.
+
 >       &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file.
 
 `.html` `<script>` `</script>` example:
@@ -111,7 +111,7 @@ toggleMode.addEventListener('click', () => {
 ```
 
 
-> 6.  Make further customizations to your `.css` file to achieve your desired look and feel.
+6.  Make further customizations to your `.css` file to achieve your desired look and feel.
 
 </details>
 
