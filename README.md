@@ -39,7 +39,7 @@ Made with ❤️
     <summary><i>Try it yourself!</i></summary>
 
 `.html` example:
-> Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle`.
+> 1. Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle`.
 ```
 <button id="mode-toggle" class="toggle">
     Toggle Mode
@@ -47,7 +47,7 @@ Made with ❤️
 ```
 
 `.js` example:
-> Add the following ***Javascript*** to your `.js` file.
+> 2. Add the following ***Javascript*** to your `.js` file.
 ```
 const toggleMode = document.getElementById('mode-toggle');
 const body = document.body;
@@ -72,7 +72,7 @@ toggleMode.addEventListener('click', () => {
 ```
 
 `.css` example:
->
+> 3. In your CSS, use the selector `.dark-mode-active` to define your desired properties.
 ```
 .dark-mode-active {
     background-color: #333;
