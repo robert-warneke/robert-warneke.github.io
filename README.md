@@ -37,7 +37,7 @@ Made with ❤️
 *Try it yourself!*
 
 `.html` example:
-> Start by adding a button with an id of `mode-toggle` and a class of `toggle`.
+> Start by adding a button with an ***id*** of `mode-toggle` and a ***class*** of `toggle`.
 ```
 <button id="mode-toggle" class="toggle">
     Toggle Mode
