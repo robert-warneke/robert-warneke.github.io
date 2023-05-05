@@ -92,7 +92,7 @@ toggleMode.addEventListener('click', () => {
 <link rel="stylesheet" href="assets/css/main.css">
 ```
 
-> 5. Copy and paste this script before the closing `</body>` tag in your `.html` file.
+> 5. Copy and paste this `<script>` `</script>` before the closing `</body>` tag in your `.html` file.
 >
 >       &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file.
 
