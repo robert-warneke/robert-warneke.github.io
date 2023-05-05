@@ -35,7 +35,7 @@ Made with ❤️
 
 ### 💡 Light/Dark Mode using HTML, CSS, and Javascript
 
-> **Description:** Toggles light/dark mode with the press of a button. Maintains current mode while navigating to other pages on the website. <
+> **Description:** Toggles light/dark mode with the press of a button. Maintains current mode while navigating to other pages on the website.
 
 <details>
     <summary>
@@ -89,7 +89,7 @@ toggleMode.addEventListener('click', () => {
 
 4. Link to your `.css` stylesheet inside the `<head>` `</head>` tag of your `.html` file(s).
 
-> &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file. <
+> &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file.
 
 `.html` `<link>` stylesheet example:
 ```
@@ -98,7 +98,7 @@ toggleMode.addEventListener('click', () => {
 
 5. Copy and paste this `<script>` `</script>` before the closing `</body>` tag in your `.html` file(s).
 
-> &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file. <
+> &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file.
 
 `.html` `<script>` `</script>` example:
 ```
