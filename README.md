@@ -83,7 +83,16 @@ toggleMode.addEventListener('click', () => {
 }
 ```
 
-> 4. Copy and paste this script before the closing `</body>` tag in your ***HTML*** file.
+> 4. Link to your `.css` stylesheet in the `<head>``</head>` of your `.html` file.
+>
+> &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file.
+
+`.html` example:
+```
+<link rel="stylesheet" href="assets/css/main.css">
+```
+
+> 5. Copy and paste this script before the closing `</body>` tag in your `.html` file.
 >
 >       &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file.
 
