@@ -35,7 +35,8 @@ Made with ❤️
 
 ### 💡 Light/Dark Mode using HTML, CSS, and Javascript
 
-*Try it yourself!*
+<details>
+    <summary><i>Try it yourself!</i></summary>
 
 `.html` example:
 > Start by adding a button with an ***id*** named `mode-toggle` and a ***class*** named `toggle`.
@@ -78,6 +79,8 @@ toggleMode.addEventListener('click', () => {
     color: #F5F5F5;
 }
 ```
+
+</details>
 
 ---
 
