@@ -73,7 +73,7 @@ toggleMode.addEventListener('click', () => {
 });
 ```
     
-> 3. In your CSS, use the selector `.dark-mode-active` to define your desired properties.
+> 3. In your ***CSS*** file, use the selector `.dark-mode-active` to define your desired properties.
     
 `.css` example:
 ```
@@ -81,6 +81,13 @@ toggleMode.addEventListener('click', () => {
     background-color: #333;
     color: #F5F5F5;
 }
+```
+
+> 4. Copy and paste this code before the closing `</body>` tag in your ***HTML*** file. Don't forget to change the `src` to the location of your `.js` file.
+
+`.html` example:
+```
+<script src="assets/js/main.js"></script>
 ```
 
 </details>
