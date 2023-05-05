@@ -83,7 +83,8 @@ toggleMode.addEventListener('click', () => {
 }
 ```
 
-> 4. Copy and paste this script before the closing `</body>` tag in your ***HTML*** file. Don't forget to change `assets/js/main.js` to the location of your `.js` file.
+> 4. Copy and paste this script before the closing `</body>` tag in your ***HTML*** file.
+> &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file.
 
 `.html` example:
 ```
