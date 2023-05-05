@@ -40,7 +40,7 @@ Made with ❤️
 <details>
     <summary><i>Want this feature on your website!? Follow these instructions. . .</i></summary>
 
-1. Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle` to your `.html` file(s).
+    1. Start by adding a `<button>` `</button>` with an ***id*** named `mode-toggle` and a ***class*** named `toggle` to your `.html` file(s).
     
 `.html` example:
 ```
