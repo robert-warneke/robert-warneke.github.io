@@ -36,7 +36,7 @@ Made with ❤️
 ### 💡 Light/Dark Mode using HTML, CSS, and Javascript
 
 <details>
-    <summary><i>Want this feature on your website? Try it yourself! . . .</i></summary>
+    <summary><i>Want this feature on your website? This is how! . . .</i></summary>
 
 > 1. Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle`.
     
