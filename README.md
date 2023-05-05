@@ -35,10 +35,12 @@ Made with ❤️
 
 ### 💡 Light/Dark Mode using HTML, CSS, and Javascript
 
+> **Description:** Toggles light/dark mode with the press of a button. Maintains current mode while navigating to other pages on the website.
+
 <details>
     <summary><i>Want this feature on your website!? Follow these instructions. . .</i></summary>
 
-1. Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle`.
+1. Start by adding an ***HTML*** button with an ***id*** named `mode-toggle` and a ***class*** named `toggle` to your `.html` file(s).
     
 `.html` example:
 ```
@@ -83,7 +85,7 @@ toggleMode.addEventListener('click', () => {
 }
 ```
 
-4. Link to your `.css` stylesheet inside the `<head>` `</head>` tag of your `.html` file.
+4. Link to your `.css` stylesheet inside the `<head>` `</head>` tag of your `.html` file(s).
 
 > &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file.
 
@@ -92,7 +94,7 @@ toggleMode.addEventListener('click', () => {
 <link rel="stylesheet" href="assets/css/main.css">
 ```
 
-5. Copy and paste this `<script>` `</script>` before the closing `</body>` tag in your `.html` file.
+5. Copy and paste this `<script>` `</script>` before the closing `</body>` tag in your `.html` file(s).
 
 > &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file.
 
