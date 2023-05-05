@@ -83,7 +83,7 @@ toggleMode.addEventListener('click', () => {
 }
 ```
 
-> 4. Link to your `.css` stylesheet in the `<head>``</head>` of your `.html` file.
+> 4. Link to your `.css` stylesheet inside the `<head>` `</head>` tag of your `.html` file.
 >
 > &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file.
 
