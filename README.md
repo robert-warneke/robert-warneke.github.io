@@ -87,7 +87,7 @@ toggleMode.addEventListener('click', () => {
 >
 > &#9432; Don't forget to change `assets/css/main.css` to the location of your `.css` file.
 
-`.html` example:
+`.html` `<link>` stylesheet example:
 ```
 <link rel="stylesheet" href="assets/css/main.css">
 ```
@@ -96,7 +96,7 @@ toggleMode.addEventListener('click', () => {
 >
 >       &#9432; Don't forget to change `assets/js/main.js` to the location of your `.js` file.
 
-`.html` example:
+`.html` `<script>` `</script>` example:
 ```
 <script src="assets/js/main.js"></script>
 ```
