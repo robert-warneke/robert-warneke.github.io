@@ -47,7 +47,7 @@ Made with ❤️
 `.html` example:
 ```
 <button id="mode-toggle" class="toggle">
-    Toggle Mode
+    <p>Toggle Mode</p>
 </button>
 ```
 
