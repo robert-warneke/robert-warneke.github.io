@@ -161,39 +161,6 @@ toggleMode.addEventListener('click', () => {
 
 ---
 
-## 🛠️ Tools & Resources
-
-* `Fonts` : 
-  - [Google Fonts](https://fonts.google.com)
-  - [Adobe Fonts](https://fonts.adobe.com/)
-
-* `Icons` : 
-  - [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons)
-  - [Font Awesome](https://fontawesome.com)
-  
-* `Shields & Badges` :
-  - [Shields.io](https://shields.io/) / [Shields.io GitHub](https://github.com/badges/shields)
-  - [Awesome Badges](https://github.com/badges/awesome-badges)
-  - [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
-
-* `Forms` : 
-  - [Formspree](https://formspree.io)
-
-
-#### *Additional Tools & Resources*
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Canva](https://canva.com)
-- [Inkscape](https://inkscape.org/)
-- [Snagit](https://www.techsmith.com/screen-capture.html) by [TechSmith](https://www.techsmith.com)
-- [Camtasia](https://www.techsmith.com/video-editor.html) by [TechSmith](https://www.techsmith.com)
-- [SVG Optimizer](https://svgoptimizer.com/)
-- [TinyURL](https://tinyurl.com/app)
-- [QRCode Monkey](https://www.qrcode-monkey.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [W3Schools](https://www.w3schools.com/)
-
----
-
 ## Robert Warneke Branding
 
 <details>
@@ -228,6 +195,38 @@ Analogous Color
 
 [![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-dark-mode-only)
 [![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=000000)](https://github.com/robert-warneke/robert-warneke-branding#gh-light-mode-only)
+
+---
+
+## 🛠️ Tools & Resources
+
+* `Fonts` : 
+  - [Google Fonts](https://fonts.google.com)
+
+* `Icons` : 
+  - [Material Symbols & Icons - Google Fonts](https://fonts.google.com/icons)
+  - [Font Awesome](https://fontawesome.com)
+  
+* `Shields & Badges` :
+  - [Shields.io](https://shields.io/) / [Shields.io GitHub](https://github.com/badges/shields)
+  - [Awesome Badges](https://github.com/badges/awesome-badges)
+  - [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
+
+* `Forms` : 
+  - [Formspree](https://formspree.io)
+
+
+#### *Additional Tools & Resources*
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Canva](https://canva.com)
+- [Inkscape](https://inkscape.org/)
+- [Snagit](https://www.techsmith.com/screen-capture.html) by [TechSmith](https://www.techsmith.com)
+- [Camtasia](https://www.techsmith.com/video-editor.html) by [TechSmith](https://www.techsmith.com)
+- [SVG Optimizer](https://svgoptimizer.com/)
+- [TinyURL](https://tinyurl.com/app)
+- [QRCode Monkey](https://www.qrcode-monkey.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [W3Schools](https://www.w3schools.com/)
 
 ---
 
