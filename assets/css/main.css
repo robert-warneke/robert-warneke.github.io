@@ -1,174 +1,379 @@
-@import url('fontawesome-all.min.css');
-@import url('https://fonts.googleapis.com/css2?family=Allura&family=Chicle&family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap&family=Material+Icons');
+@import url(/assets/img/fontawesome/css/all.css);
 
-h1, h2, h3, h4, h5, h6, p, a {
-    font-size: 1em;
-    font-weight: normal;
-    margin: 0;
+
+/* GLOBAL */
+  /* GLOBAL RESETS */
+  body {
     padding: 0;
-}
+    margin: 0;
+  }
 
-a {
-    display: block;
-}
+  .brand-color {
+    color: #6660e0;
+  }
 
-strong {
-    font-weight: bold;
-}
+  /* THEME */
+  body {
+    background-color: #F5F5F5;
+    color: #333;
+  }
 
-    .allura {
-        font-family: 'Allura', cursive;
-        font-size: 1em;
+    /* LIGHT MODE - DEFAULT */
+    #light-toggle {
+      display: none;
     }
 
-    .nerko1 {
-        font-family: 'Nerko One', cursive;
-        font-size: 1em;
+    #dark-toggle {
+      display: block;
+      color: #89CFF0;
     }
 
-    .chicle {
-        font-family: 'Chicle', cursive;
-        font-size: 1em;
+    #dark-toggle:hover {
+      color: #333;
     }
 
-    .label {
-        display: none;
+      /* Header Theme - DEFAULT */
+      header {
+        background-color: #F5F5F5;
+      }
+
+      header .menu .nav-link {
+        color: #333;
+      }
+
+      header .menu .nav-link:hover {
+        color: #6660e0;
+      }
+
+      #logo-text-2 {
+        color: #333;
+      }
+
+      .menu-container {
+        background-color: #e9e9e990;
+      }
+
+      #bars {
+        color: #333;
+      }
+
+      #close-menu {
+        color: red;
+      }
+
+      #bars:hover, #close-menu:hover {
+        color: #6660e0;
+      }
+
+      .menu .social-link {
+        color: #6660e0;
+      }
+
+      .menu .social-link:hover {
+        color: #333;
+      }
+
+      /* Footer Theme - DEFAULT */
+      footer{
+        background-color: #F5F5F5;
+        color: #333;
+      }
+
+    /* DARK MODE */
+    .dark-mode-active {
+      background-color: #333;
+      color: #F5F5F5;
     }
 
-/* vvv DESIGN vvv */
-
-body {
-    background: radial-gradient(circle, rgba(102,96,224,1) 50%, rgba(137,96,224,1) 100%);
-}
-
-    .buttonlinks a {
-        text-decoration: none;
-        text-align: center;
-        background-color: #6660e0;
-        color: #fff0e0;
-        padding: 10px;
-        border-radius: 20px;
-        margin-top: 15px;
-        margin-bottom: 15px;
-        border-style: solid;
-        font-family: 'Chicle', cursive;
-        font-size: 1.5em;
+    .dark-mode-active #light-toggle {
+      display: block;
+      color: #FFFF5C;
     }
 
-        .buttonlinks a:hover {
-            cursor: pointer;
-            background-color: #fff0e0;
-            color: #6660e0;
-            transition: 0.5s;
+    .dark-mode-active #light-toggle:hover {
+      color: #F5F5F5;
+    }
+
+    .dark-mode-active #dark-toggle {
+      display: none;
+    }
+
+      /* Header Theme - DARK */
+      .dark-mode-active header {
+        background-color: #333;
+        color: #F5F5F5;
+      }
+
+      .dark-mode-active #logo-text-2 {
+        color: #F5F5F5;
+      }
+
+      .dark-mode-active .menu .nav-link {
+        color: #F5F5F5;
+      }
+
+      .dark-mode-active .menu-container {
+        background-color: #40404090;
+      }
+
+      .dark-mode-active #bars {
+        color: #F5F5F5;
+      }
+
+      .dark-mode-active #close-menu {
+        color: red;
+      }
+
+      .dark-mode-active #bars:hover, .dark-mode-active #close-menu:hover {
+        color: #6660e0;
+      }
+
+      .dark-mode-active .menu .social-link:hover {
+        color: #F5F5F5;
+      }
+
+      /* Footer Theme - DARK */
+      .dark-mode-active footer {
+        background-color: #333;
+        color: #F5F5F5;
+      }
+
+/* MEDIA QUERIES */
+
+  /* MOBILE - Extra Small Display */
+    /* Global */
+      /* Header */
+      header {
+        height: 60px;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 0;
+        margin: 0;
+        z-index: 10000;
+      }
+
+      .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 60px;
+        padding: 0 30px;
+        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+        z-index: 9999;
+      }
+
+        /* Header - Mode Toggle */
+        .toggle {
+          background-color: transparent;
+          border: transparent;
+          cursor: pointer;
+          font-size: 24px;
+          padding: 0;
+          margin-right: 0px;
+          margin-left: 16px;
+        }
+      
+        /* Header - Logo */
+        .logo {
+          display: flex;
+          align-items: center;
+          margin-right: auto;
+        }
+        
+        .logo img {
+          height: 32px;
+          margin-right: 10px;
+          margin-left: 10px;
         }
 
-/* Responsive Design - Media Queries */
-
-/* MOBILE */
-    /* WELCOME - Landing Page */
-    /* HOME - Main Directory */
-    /* ABOUT - Picture & Summary */
-    /* PROJECTS - Showcase */
-    /* CONTACT - Form */
-
-
-        /* CONSTRUCTION PAGE  - Maintenance*/
-        #construction, #contactsection {
-            margin: auto;
-            width: 80%;
-            background-color: #000e0e1a;
-            border: dashed;
-            border-color: #fff0e0;
-            padding: 5%;
-            margin-top: 25px;
+        #logo-text {
+          height: 32px;
+          font-family: 'Vina Sans', cursive;
+          font-size: 1.4em;
+          font-weight: 300;
         }
 
-            #construction h1, #construction h2 {
-                text-align: center;
-                color: #fff0e0;
-            }
+        /* Header - Mode Toggle */
+        #mode-toggle {
+          display: flex;
+          margin-left: auto;
+          margin-right: 10px;
+        }
+        
+        /* Header - Menu */
+        .menu-container {
+          position: fixed;
+          top: 60px;
+          bottom: 100vh - 60px;
+          right: -40%;
+          width: 40%;
+          height: 100vh;
+          z-index: 0;
+          transition: all 0.3s ease-in-out;
+          margin-top: 0px;
+          padding: 0;
+          padding-top: 0;
+          display: flex;
+          min-height: 768px;
+        }
+        
+        .menu-container.show {
+          right: 0;
+        }
+        
+        .hamburger-menu {
+          display: flex;
+          justify-content: flex-end;
+          margin-left: auto;
+          margin-right: 10px;
+          transition: all 0.3s ease-in-out;
+          margin-left: 0; /* add this line to reset margin-left */
+        }
+        
+        .hamburger-menu.show {
+          transform: translateX(-50%);
+        }
+        
+        #hamburger {
+          font-size: 32px;
+        }
+        
+        .menu {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          list-style: none;
+          margin: 0;
+          padding: 0;
+        }
+        
+        .menu .nav-link {
+          font-family: 'Vina Sans', cursive;
+          font-size: 1.25rem;
+          text-decoration: none;
+        }
 
-                #construction .allura {
-                    font-size: 4em;
-                }
+        .menu .nav-link:hover {
+          font-size: 1.28rem;
+        }
 
-                #construction .chicle {
-                    font-size: 1.5em;
-                }
+        .menu .social-link {
+          font-size: 1.5em;
+        }
 
-                #construction hr {
-                    border-top: 1px solid;
-                    border-bottom: none;
-                    border-left: none;
-                    border-right: none;
-                    border-color: #fff0e077;
-                }
+        .menu .social-link:hover {
+          font-size: 1.6em;
+        }
 
-            #namelogo {
-                margin: auto;
-                width: 100%;
-                padding-top: 10px;
-                padding-bottom: 10px;
-            }
+        .menu li {
+          margin-bottom: 50px;
+          flex-grow: 1;
+          flex-basis: 0;
+        }
 
-            #contactsection p {
-                text-align: center;
-                color: #fff0e0;
-            }
+        #close-menu {
+          display: none;
+        }
 
-            #contactsection .buttonlinks {
-                margin: 0 auto;
-                width: 100%;
-            }
-            
-                #contactsection .buttonlinks .btn1 {
-                    margin: 15px auto;
-                    width: 80%;
-                }
+        .menu-active #close-menu {
+          display: block;
+        }
 
-/* TABLET */
-@media screen and (min-width:481px) {
-    /* WELCOME - Landing Page */
-    /* HOME - Main Directory */
-    /* ABOUT - Picture & Summary */
-    /* PROJECTS - Showcase */
-    /* CONTACT - Form */
-        /* CONSTRUCTION PAGE  - Maintenance*/
+        #bars {
+          display: block;
+        }
 
+        .menu-active #bars {
+          display: none;
+        }
+
+footer {
+  background-color: #F5F5F5;
+  color: #333;
+  padding: 40px 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
 
-
-/* LAPTOPS - SMALL SCREENS */
-@media screen and (min-width:769px) {
-    /* WELCOME - Landing Page */
-    /* HOME - Main Directory */
-    /* ABOUT - Picture & Summary */
-    /* PROJECTS - Showcase */
-    /* CONTACT - Form */
-        /* CONSTRUCTION PAGE  - Maintenance*/
-
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
-
-/* DESKTOPS - LARGE SCREENS */
-@media screen and (min-width:1025px) {
-    /* WELCOME - Landing Page */
-    /* HOME - Main Directory */
-    /* ABOUT - Picture & Summary */
-    /* PROJECTS - Showcase */
-    /* CONTACT - Form */
-        /* CONSTRUCTION PAGE  - Maintenance*/
-
+.footer-social ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
 }
 
+.footer-social ul li {
+  margin: 0 10px;
+}
 
-/* EXTRA LARGE SCREENS - 4K */
-@media screen and (min-width:1201px) {
-    /* WELCOME - Landing Page */
-    /* HOME - Main Directory */
-    /* ABOUT - Picture & Summary */
-    /* PROJECTS - Showcase */
-    /* CONTACT - Form */
-        /* CONSTRUCTION PAGE  - Maintenance*/
+.footer-social ul li a {
+  color: #333;
+  font-size: 24px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
 
+.dark-mode-active .footer-social ul li a {
+  color: #F5F5F5;
+}
+
+.footer-social ul li a:hover {
+  color: #6660e0;
+}
+
+.footer-bottom {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 14px;
+}
+
+  .menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    list-style: none;
+    padding-top: 2.5rem;
+  }
+  
+  .nav-link {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    width: fit-content;
+    font-size: 1rem;
+  }
+  
+.nav-link .material-icons {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 0.25rem;
+    color: #6660e0;
+    font-size: 2rem;
+}
+
+.nav-text {
+    display: inline-flex;
+    align-items: center;
+}
+
+#current-page, #current-page .material-icons {
+  color: #6660e0;
 }
