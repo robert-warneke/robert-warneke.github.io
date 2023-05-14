@@ -202,10 +202,8 @@ toggleMode.addEventListener('click', () => {
 >        - Lighter Shade (#7785fa)
 >    - Complimentary (#e0cc66)
 >    - Analogous Color (#6660fa)
->
 >    - For black:
 >        - Very dark gray (#333333)
->
 >    - For white:
 >        - White smoke (#F5F5F5)
 
