@@ -157,19 +157,28 @@ toggleMode.addEventListener('click', () => {
 
 ### CSS
 
-1. `assets/css/main.css`
-    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/css/main.css)
-    - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/css/main.css)
+<details>
+<summary><h6> <code>assets/css/main.css</code>:</h6></summary>
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/css/main.css)
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/css/main.css)
+
+</details>
 
 2. `assets/fontawesome/css/all.css`
     - > &#9432; *Icon support file provided by [Font Awesome](https://fontawesome.com)*
 
 ### Javascript
 
-1. `assets/js/main.js`
+<details>
+<summary><h6> <code>assets/js/main.js</code>:</h6></summary>
 
-    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/js/main.js)
-    - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/js/main.js)
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/js/main.js)
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/js/main.js)
+
+</details>
 
 ---
 
