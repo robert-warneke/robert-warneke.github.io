@@ -2,8 +2,6 @@
 
 `robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).
 
-View repository at [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io).
-
 Made with ❤️
 
 ![](https://custom-icon-badges.demolab.com/badge/-HTML5-e34c26?style=for-the-badge&logoColor=white&logo=html5)
@@ -199,6 +197,7 @@ toggleMode.addEventListener('click', () => {
 ## Robert Warneke Branding
 
 ### Brand Palette:
+
     - Brand Color (#6660e0)
         - Darker Shade (#554dc7)
         - Lighter Shade (#7785fa)
