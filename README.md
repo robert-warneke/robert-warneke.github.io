@@ -202,10 +202,25 @@ Brand Color
 #6660e0
 ```
 
-`#554dc7`: Darker Shade
-`#7785fa`: Lighter Shade
-`#e0cc66`: Complimentary
-`#6660fa`: Analogous Color
+Darker Shade of Brand Color
+```
+#554dc7
+```
+
+Lighter Shade of Brand Color:
+```
+#7785fa
+```
+Complimentary Color
+```
+#e0cc66
+```
+
+Analogous Color
+```
+#6660fa
+```
+
 For black:
   `#333333`: Very dark gray
 For white:
