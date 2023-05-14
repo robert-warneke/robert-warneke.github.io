@@ -200,6 +200,7 @@ toggleMode.addEventListener('click', () => {
 <summary>
 <h3> 🎨 Brand Palette . . .</h3>
 </summary>
+
 Brand Color
 ```
 #6660e0
