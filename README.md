@@ -110,7 +110,9 @@ toggleMode.addEventListener('click', () => {
 
 ---
 
-## HTML
+## 📂 Files
+
+### HTML
 
 <details>
 <summary><h6> <code>index.html</code>:</h6></summary>
@@ -132,18 +134,28 @@ toggleMode.addEventListener('click', () => {
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/about.html)
 
 </details>
+<details>
+<summary><h6> <code>rw/projects.html</code>:</h6></summary>
 
-3. `rw/projects.html`: Robert Warneke | Projects
-    - [Webpage](https://robert-warneke.github.io/rw/projects.html)
-    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/rw/projects.html)
-    - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/projects.html)
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Webpage-6660e0?style=for-the-badge&logoColor=white&logo=robert-warneke-wlogo)](https://robert-warneke.github.io/rw/projects.html)
 
-4. `rw/contact.html`: Robert Warneke | Contact
-    - [Webpage](https://robert-warneke.github.io/rw/contact.html)
-    - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/rw/contact.html)
-    - [Raw](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/contact.html)
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/rw/projects.html)
 
-## CSS
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/projects.html)
+
+</details>
+<details>
+<summary><h6> <code>rw/contact.html</code>:</h6></summary>
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Webpage-6660e0?style=for-the-badge&logoColor=white&logo=robert-warneke-wlogo)](https://robert-warneke.github.io/rw/contact.html)
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/rw/contact.html)
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/rw/contact.html)
+
+</details>
+
+### CSS
 
 1. `assets/css/main.css`
     - [GitHub](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/css/main.css)
@@ -152,7 +164,7 @@ toggleMode.addEventListener('click', () => {
 2. `assets/fontawesome/css/all.css`
     - > &#9432; *Icon support file provided by [Font Awesome](https://fontawesome.com)*
 
-## Javascript
+### Javascript
 
 1. `assets/js/main.js`
 
