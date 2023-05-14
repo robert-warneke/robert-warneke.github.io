@@ -24,12 +24,13 @@ Made with ❤️
 
 - [Features](https://github.com/robert-warneke/robert-warneke.github.io#Features)
     - [Light/Dark Mode Toggle using HTML, CSS, and Javascript](https://github.com/robert-warneke/robert-warneke.github.io/tree/main#-lightdark-mode-toggle-using-html-css-and-javascript)
-- [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
-- [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
-- [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
+- [Files](https://github.com/robert-warneke/robert-warneke.github.io#-files)
+    - [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
+    - [CSS](https://github.com/robert-warneke/robert-warneke.github.io#css)
+    - [Javascript](https://github.com/robert-warneke/robert-warneke.github.io#javascript)
+- [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#robert-warneke-branding)
 - [Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-tools--resources)
     - [Additional Tools & Resources](https://github.com/robert-warneke/robert-warneke.github.io#additional-tools--resources)
-- [Robert Warneke Branding](https://github.com/robert-warneke/robert-warneke.github.io#robert-warneke-branding)
 - [Contact & Connect](https://github.com/robert-warneke/robert-warneke.github.io#-contact--connect)
 - [Support](https://github.com/robert-warneke/robert-warneke.github.io#support)
 
