@@ -181,7 +181,7 @@ toggleMode.addEventListener('click', () => {
 
 </details>
 
-    - > &#9432; *Icon support file provided by [Font Awesome](https://fontawesome.com)*
+  - > &#9432; *Icon support file provided by [Font Awesome](https://fontawesome.com)
 
 ### Javascript
 
