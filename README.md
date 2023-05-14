@@ -196,8 +196,7 @@ toggleMode.addEventListener('click', () => {
 
 ## Robert Warneke Branding
 
-### Brand Palette:
-
+> ### Brand Palette:
 >    - Brand Color (#6660e0)
 >        - Darker Shade (#554dc7)
 >        - Lighter Shade (#7785fa)
