@@ -165,8 +165,22 @@ toggleMode.addEventListener('click', () => {
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/css/main.css)
 
 </details>
+<details>
+<summary><h6> <code>assets/css/modal.css</code>:</h6></summary>
 
-2. `assets/fontawesome/css/all.css`
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/css/modal.css)
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/css/modal.css)
+
+</details>
+<summary><h6> <code>assets/fontawesome/css/all.css</code>:</h6></summary>
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)]()
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)]()
+
+</details>
+
     - > &#9432; *Icon support file provided by [Font Awesome](https://fontawesome.com)*
 
 ### Javascript
@@ -177,6 +191,14 @@ toggleMode.addEventListener('click', () => {
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/js/main.js)
 
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/js/main.js)
+
+</details>
+<details>
+<summary><h6> <code>assets/js/modal.js</code>:</h6></summary>
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/js/modal.js)
+
+>[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/js/modal.js)
 
 </details>
 
