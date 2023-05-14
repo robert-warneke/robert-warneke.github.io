@@ -36,7 +36,7 @@ Made with ❤️
 
 ---
 
-## Features
+## 🖥️ Features
 
 ### 💡 Light/Dark Mode Toggle using HTML, CSS, and Javascript
 
