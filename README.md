@@ -9,6 +9,9 @@ Made with ❤️
 ![](https://custom-icon-badges.demolab.com/badge/-javascript-323330?style=for-the-badge&logoColor=white&logo=javascript)
 ![](https://custom-icon-badges.demolab.com/badge/-markdown-269ee9?style=for-the-badge&logoColor=white&logo=markdown)
 
+![](https://custom-icon-badges.demolab.com/badge/-Google%20Fonts-EA4335?style=for-the-badge&logoColor=white&logo=googlefonts)
+![](https://custom-icon-badges.demolab.com/badge/-FontAwesome-228ae6?style=for-the-badge&logoColor=white&logo=fontawesome)
+
 [![](https://custom-icon-badges.demolab.com/github/last-commit/robert-warneke/robert-warneke.github.io?logo=history&logoColor=white)](https://github.com/robert-warneke/robert-warneke.github.io/commits/main/README.md)
 ![](https://custom-icon-badges.demolab.com/github/stars/robert-warneke/robert-warneke.github.io?logo=star&style=social&logoColor=black)
 ![](https://custom-icon-badges.demolab.com/github/watchers/robert-warneke/robert-warneke.github.io?logo=eye&style=social&logoColor=black)
