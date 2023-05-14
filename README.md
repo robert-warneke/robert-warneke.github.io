@@ -39,7 +39,7 @@ Made with ❤️
 
 ### 💡 Light/Dark Mode Toggle using HTML, CSS, and Javascript
 
-> **Description:** Toggles light/dark mode with the press of a button. Maintains current mode while navigating to other pages on the website using `local storage`.
+> **Description:** Toggles light/dark mode with the press of a button. Maintains current mode using `local storage`.
 
 <details>
     <summary>
