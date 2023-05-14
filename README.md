@@ -173,16 +173,14 @@ toggleMode.addEventListener('click', () => {
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/css/modal.css)
 
 </details>
-
-<summary><h6> <code>assets/fontawesome/css/all.css</code>:</h6></summary>
+<summary><h6> <code>assets/fontawesome/css/all.css</code>: &#9432; *Icon support file provided by [Font Awesome](https://fontawesome.com)*
+</h6></summary>
 
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/img/fontawesome/css/all.css)
 
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Raw-fff0e0?style=for-the-badge&logoColor=333&logo=github)](https://raw.githubusercontent.com/robert-warneke/robert-warneke.github.io/main/assets/img/fontawesome/css/all.css)
 
 </details>
-
-  - > &#9432; `assets/fontawesome/css/all.css`: *Icon support file provided by [Font Awesome](https://fontawesome.com)
 
 ### Javascript
 
