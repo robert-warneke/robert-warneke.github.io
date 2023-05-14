@@ -196,7 +196,12 @@ toggleMode.addEventListener('click', () => {
 
 ## Robert Warneke Branding
 
-### Brand Palette:
+<details>
+<summary>
+<h3> 🎨 Brand Palette . . .</h3>
+</summary>
+
+</details>
 Brand Color
 ```
 #6660e0
@@ -220,11 +225,6 @@ Analogous Color
 ```
 #6660fa
 ```
-
-For black:
-  `#333333`: Very dark gray
-For white:
-  `#F5F5F5`: White smoke
 
 [![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-dark-mode-only)
 [![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=000000)](https://github.com/robert-warneke/robert-warneke-branding#gh-light-mode-only)
