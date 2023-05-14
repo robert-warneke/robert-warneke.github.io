@@ -200,8 +200,6 @@ toggleMode.addEventListener('click', () => {
 <summary>
 <h3> 🎨 Brand Palette . . .</h3>
 </summary>
-
-</details>
 Brand Color
 ```
 #6660e0
@@ -212,7 +210,7 @@ Darker Shade of Brand Color
 #554dc7
 ```
 
-Lighter Shade of Brand Color:
+Lighter Shade of Brand Color
 ```
 #7785fa
 ```
@@ -225,6 +223,7 @@ Analogous Color
 ```
 #6660fa
 ```
+</details>
 
 [![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=ffffff)](https://github.com/robert-warneke/robert-warneke-branding#gh-dark-mode-only)
 [![](https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke-branding&bg_color=ffffff00&text_color=000000)](https://github.com/robert-warneke/robert-warneke-branding#gh-light-mode-only)
