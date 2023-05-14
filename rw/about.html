@@ -1,13 +1,106 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Robert Warneke | About</title>
-    <link href="../assets/css/main.css" rel="stylesheet" type="text/css">
-    <link href="../assets/img/svg/favicon.svg" rel="icon" sizes="any" type="image/svg+xml">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="As an information systems student and experienced paraprofessional, I combine technical expertise with interpersonal finesse. With a background in customer service supervision and technical training, I strive to make a positive impact. Explore my portfolio for projects and skills.">
+	<meta property="og:title" content="Robert Warneke - Portfolio">
+	<meta property="og:description" content="As an information systems student and experienced paraprofessional, I combine technical expertise with interpersonal finesse. With a background in customer service supervision and technical training, I strive to make a positive impact. Explore my portfolio for projects and skills.">
+	<meta property="og:image" content="https://robertwarneke.com/assets/img/branding/svg/robert-warneke-w-logo-2color-6660e0&f5f5f5-32x32.svg">
+	<meta property="og:url" content="https://robertwarneke.com/">
+	<title>Robert Warneke | About</title>
+	<link href="../assets/img/branding/svg/robert-warneke-w-favicon-2color-6660e0&f5f5f5-32x32.svg" rel="icon" sizes="any" type="image/svg+xml">
+	<link rel="canonical" href="https://robertwarneke.com/">
+	<link rel="stylesheet" href="../assets/css/main.css">
+	<link rel="stylesheet" href="../assets/css/modal.css">
 </head>
 <body>
-</body>
+	<header>
+		<nav class="navbar">
+			<div class="logo">
+				<a href="../index.html"><img id="w-logo" src="../assets/img/branding/svg/robert-warneke-w-logo-2color-6660e0&f5f5f5-32x32.svg" alt="w-logo"></a>
+				<span id="logo-text">
+					<span id="logo-text-1" class="brand-color">Robert</span><span id="logo-text-2">Warneke</span>
+				</span>
+			</div>
+		  	<button id="mode-toggle" class="toggle" class="mode-toggle">
+				<i id="light-toggle" class="fas fa-sun"></i>
+				<i id="dark-toggle" class="fas fa-moon"></i>
+			</button>
+		  <div class="hamburger-menu">
+			<button id="hamburger" class="toggle" class="menu-toggle">
+				<i id="bars" class="fas fa-bars"></i>
+				<i id="close-menu" class="fas fa-times"></i>
+			</button>
+		  </div>
+		  <div class="menu-container">
+			<ul class="menu">
+				<div class="nav-item-wrapper">
+					<li>
+						<a class="nav-link" href="../index.html">
+							<span class="material-icons">home</span><span class="nav-text">Home</span>
+						</a>
+					</li>
+					<li>
+						<a id="current-page" class="nav-link" href="about.html">
+							<span class="material-icons">person</span><span class="nav-text">About</span>
+						</a>
+					</li>
+					<li>
+						<a class="nav-link" href="projects.html">
+							<span class="material-icons">work</span><span class="nav-text">Projects</span>
+						</a>
+					</li>
+					<li>
+						<a class="nav-link" href="contact.html">
+							<span class="material-icons">mail</span><span class="nav-text">Contact</span>
+						</a>
+					</li>
+				</div>
+			</ul>			
+		  </div>
+		</nav>
+	  </header>
+
+	      <!-- Modal -->
+		  <div id="modal" class="modal">
+			<div class="modal-content">
+				<span class="close">&times;</span>
+				<form action="https://formspree.io/f/{your_form_id}" method="POST">
+					<input type="text" id="name" name="name" required placeholder="Name">
+					<input type="email" id="email" name="_replyto" required placeholder="Email address">
+					<textarea id="message" name="message" required placeholder="Enter your message text."></textarea>
+					<input type="submit" value="Send">
+				</form>
+			</div>
+			</div>
+
+	  <main>
+		<section id="hero">
+			<div class="container">
+			</div>
+		</section>
+	  </main>
+
+	  <footer>
+        <div class="container">
+                <div class="footer-social">
+                    <ul>
+                        <li><a href="https://github.com/robert-warneke" target="_blank"><i class="fab fa-github"></i></a></li>
+                        <li><a href="https://linkedin.com/in/robert-warneke" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+						<li><button id="modal-btn" class="social-btn"><i class="fas fa-envelope"></i></button></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 Robert Warneke.</p>
+            </div>
+        </div>
+    </footer>
+	  
+	<script src="../assets/js/main.js"></script>
+	<script src="../assets/js/modal.js"></script>
+</body>	  
 </html>
+                    
+
