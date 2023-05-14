@@ -57,11 +57,23 @@
 						</a>
 					</li>
 				</div>
-				<!-- The rest of your list items -->
 			</ul>			
 		  </div>
 		</nav>
 	  </header>
+
+	      <!-- Modal -->
+		  <div id="modal" class="modal">
+			<div class="modal-content">
+				<span class="close">&times;</span>
+				<form action="https://formspree.io/f/{your_form_id}" method="POST">
+					<input type="text" id="name" name="name" required placeholder="Your name">
+					<input type="email" id="email" name="_replyto" required placeholder="Your email address">
+					<textarea id="message" name="message" required placeholder="Enter your message text."></textarea>
+					<input type="submit" value="Send">
+				</form>
+			</div>
+			</div>
 
 	  <main>
 		<section id="hero">
@@ -69,20 +81,6 @@
 			</div>
 		</section>
 	  </main>
-
-	  
-    <!-- Modal -->
-    <div id="modal" class="modal">
-    	<div class="modal-content">
-    		<span class="close">&times;</span>
-    		<form action="https://formspree.io/f/{your_form_id}" method="POST">
-    			<input type="text" id="name" name="name" required placeholder="Your name">
-    			<input type="email" id="email" name="_replyto" required placeholder="Your email address">
-    			<textarea id="message" name="message" required placeholder="Enter your message text."></textarea>
-    			<input type="submit" value="Send">
-    		</form>
-    	</div>
-    </div>
 
 	  <footer>
         <div class="container">

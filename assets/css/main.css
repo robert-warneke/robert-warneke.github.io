@@ -342,7 +342,7 @@ footer {
   padding: 0;
 }
 
-.social-btn:hover {
+.social-btn:hover, .dark-mode-active .social-btn:hover {
   color: #6660e0;
 }
 
