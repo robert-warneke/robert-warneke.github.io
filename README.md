@@ -185,7 +185,7 @@ toggleMode.addEventListener('click', () => {
 
 </details>
 <details>
-<summary><h6> <code>assets/fontawesome/css/all.css</code>:  &#9432; <i>Icon support file provided by <a href="https://fontawesome.com">FontAwesome</a>.<i>
+<summary><h6> <code>assets/fontawesome/css/all.css</code>:  &#9432; <i>Icon support file provided by <a href="https://fontawesome.com">FontAwesome</a>.</i>
 </h6></summary>
 
 >[![](https://custom-icon-badges.demolab.com/badge/-View%20Github-333?style=for-the-badge&logoColor=white&logo=github)](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/assets/img/fontawesome/css/all.css)
