@@ -27,7 +27,7 @@ Made with ❤️
 
 ## 📃 Table of Contents
 
-- [Features](https://github.com/robert-warneke/robert-warneke.github.io#Features)
+- [Features](https://github.com/robert-warneke/robert-warneke.github.io#%EF%B8%8F-features)
     - [Light/Dark Mode Toggle using HTML, CSS, and Javascript](https://github.com/robert-warneke/robert-warneke.github.io/tree/main#-lightdark-mode-toggle-using-html-css-and-javascript)
 - [Files](https://github.com/robert-warneke/robert-warneke.github.io#-files)
     - [HTML](https://github.com/robert-warneke/robert-warneke.github.io#HTML)
