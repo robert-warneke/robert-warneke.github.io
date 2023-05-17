@@ -10,17 +10,17 @@
 
   <!-- Other pages -->
   <url>
-    <loc>https://robertwarneke.com/about</loc>
+    <loc>https://robertwarneke.com/rw/about</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://robertwarneke.com/projects</loc>
+    <loc>https://robertwarneke.com/rw/projects</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://robertwarneke.com/contact</loc>
+    <loc>https://robertwarneke.com/rw/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
