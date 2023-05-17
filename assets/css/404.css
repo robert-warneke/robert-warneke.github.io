@@ -23,13 +23,15 @@ body {
 .container h1 {
     font-size: 2em; /* Using em allows font to scale based on base font size */
     color: #333;
-    margin-bottom: 1rem; /* Added more space between elements */
+    margin-bottom: .25rem; /* Added more space between elements */
 }
 
 .container p {
     font-size: 1em; /* Using em allows font to scale based on base font size */
     color: #666;
-    margin-bottom: 2rem; /* Added more space between elements */
+    margin-bottom: 2.5rem; /* Added more space between elements */
+    margin-top: 0;
+    padding: 0;
 }
 
 .container a.button {
