@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    padding: 150px;
+}
+
+h1 {
+    font-size: 50px;
+    color: #333;
+}
+
+p {
+    font-size: 20px;
+    color: #666;
+}
+
+a {
+    color: #dc8100;
+    text-decoration: none;
+}
