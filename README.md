@@ -1,10 +1,5 @@
 # robert-warneke.github.io
 
-<p align="center">
-<a href="https://robertwarneke.com#gh-dark-mode-only"><img width="30%" src="/assets/img/branding/svg/robert-warneke-namelogo-2color-6660e0&ffffff-124x33.3-min.svg"></a>
-<a href="https://robertwarneke.com#gh-light-mode-only"><img width="30%" src="/assets/img/branding/svg/robert-warneke-namelogo-2color-6660e0&000000-124x33.3-min.svg"></a>
-</p>
-
 `robertwarneke.com` - Static portfolio website with responsive design, hosted using [GitHub Pages](https://pages.github.com/).
 
 Made with ❤️
