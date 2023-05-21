@@ -46,3 +46,6 @@ Desktop.ini
 tests/
 templates/
 maintenance/
+
+# Bootstrap files
+*.bsdesign
