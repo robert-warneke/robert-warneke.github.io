@@ -45,7 +45,6 @@ Desktop.ini
 # Folders
 tests/
 templates/
-maintenance/
 .toolkit/
 
 # Bootstrap files
