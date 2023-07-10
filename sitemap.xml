@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://robertwarneke.com/rw/home</loc>
+    <loc>https://robertwarneke.com</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://robertwarneke.com/rw/about</loc>
+    <loc>https://robertwarneke.com/about/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://robertwarneke.com/rw/projects</loc>
+    <loc>https://robertwarneke.com/projects/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://robertwarneke.com/rw/contact</loc>
+    <loc>https://robertwarneke.com/contact/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
