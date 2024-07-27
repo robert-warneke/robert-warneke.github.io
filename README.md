@@ -4,6 +4,7 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 
 ##### 📑 Table of Contents
 - [📋 Overview](#overview)
+- [✨ Features](#features)
 - [🛠️ Technologies Used](#technologies-used)
 - [🐛 Issues and Feedback](#issues-and-feedback)
 - [📜 License](#license)
@@ -12,6 +13,17 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 
 ## 📋 Overview <a id="overview"></a>
 This repository contains the source code for my professional website, showcasing my portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with my latest work and achievements.
+
+## ✨ Features <a id="features"></a>
+- Redirects to online profiles and resources:
+  - [Robert's LinkedIn](https://robertwarneke.com/linkedin)
+  - [Robert's GitHub Profile](https://robertwarneke.com/github)
+  - [Robert's GitHub Repos](https://robertwarneke.com/github/repos)
+    - [robert-warneke](https://robertwarneke.com/github/repos/robert-warneke)
+    - [robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io)
+  - [Robert's Resume](https://robertwarneke.com/resume)
+  - [Robert's Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
+- Custom 404 Error Page
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
 - HTML
