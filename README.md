@@ -18,6 +18,7 @@ This repository contains the source code for my professional website, showcasing
 ## ✨ Features <a id="features"></a>
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience across all devices, from desktops to mobile phones.
 - **Interactive Elements**: Carousels, image sliders, and lightbox galleries to enhance user engagement.
+- **Contact Form**: An easy-to-use contact form that allows visitors to reach out to me directly.
 - **Redirects to online profiles and resources**:
   - [LinkedIn Profile](https://robertwarneke.com/linkedin)
   - [GitHub Profile](https://robertwarneke.com/github)
@@ -28,7 +29,6 @@ This repository contains the source code for my professional website, showcasing
   - [Resume](https://robertwarneke.com/resume)
   - [Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
 - **Custom 404 Error Page**: A user-friendly 404 error page to help visitors navigate back to the main site.
-- **Contact Form**
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
 - HTML
