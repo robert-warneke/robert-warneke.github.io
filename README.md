@@ -37,16 +37,16 @@ This repository contains the source code for my professional website, showcasing
 
 ## 🔗 Website Navigation <a id="website-navigation"></a>
 
-| Page                          | URL                                                                                       | Description |
-|-------------------------------|-------------------------------------------------------------------------------------------|-------------|
-| Robert's LinkedIn Profile              | [https://robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                   | Redirects to Robert's LinkedIn profile |
-| Robert's GitHub Profile                | [https://robertwarneke.com/github](https://robertwarneke.com/github)                       | Redirects to Robert's GitHub Profile |
-| Robert's GitHub Repos                  | [https://robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)           | Redirects to Robert's GitHub Repositories |
-| robert-warneke (GitHub Repo)           | [https://robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) | Redirects to Robert's GitHub repository 'robert-warneke' |
-| robert-warneke.github.io (GitHub Repo) | [https://robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) | Redirects to Robert's GitHub repository 'robert-warneke.github.io' |
-| Issues for robert-warneke.github.io (robertwarneke.com) | [https://robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | Redirects to the 'Issues' tab for Robert's GitHub repository 'robert-warneke.github.io' (robertwarneke.com) |
-| Robert's Resume                        | [https://robertwarneke.com/resume](https://robertwarneke.com/resume)                       | Redirects to a PDF of Robert's resume |
-| Robert's Technical Trainer Presentation| [https://robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer) | Redirects to a PDF of Robert's Technical Trainer presentation |
+| Page                          | URL                                                                                       | Redirect | Description |
+|-------------------------------|-------------------------------------------------------------------------------------------|-------------|----------|
+| Robert's LinkedIn Profile              | [https://robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                   | | Redirects to Robert's LinkedIn profile |
+| Robert's GitHub Profile                | [https://robertwarneke.com/github](https://robertwarneke.com/github)                       | | Redirects to Robert's GitHub Profile |
+| Robert's GitHub Repos                  | [https://robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)           | | Redirects to Robert's GitHub Repositories |
+| robert-warneke (GitHub Repo)           | [https://robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) | | Redirects to Robert's GitHub repository 'robert-warneke' |
+| robert-warneke.github.io (GitHub Repo) | [https://robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) | | Redirects to Robert's GitHub repository 'robert-warneke.github.io' |
+| Issues for robert-warneke.github.io (robertwarneke.com) | [https://robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | | Redirects to the 'Issues' tab for Robert's GitHub repository 'robert-warneke.github.io' (robertwarneke.com) |
+| Robert's Resume                        | [https://robertwarneke.com/resume](https://robertwarneke.com/resume)                       | | Redirects to a PDF of Robert's resume |
+| Robert's Technical Trainer Presentation| [https://robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer) | | Redirects to a PDF of Robert's Technical Trainer presentation |
 
 
 ## 🐛 Issues and Feedback <a id="issues-and-feedback"></a>
