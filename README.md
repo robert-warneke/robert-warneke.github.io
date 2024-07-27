@@ -36,16 +36,16 @@ This repository contains the source code for my professional website, showcasing
 
 ## 🔗 Website Navigation <a id="website-navigation"></a>
 
-| Page                          | URL                                                                                       |
-|-------------------------------|-------------------------------------------------------------------------------------------|
-| Robert's LinkedIn Profile              | [https://robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                   |
-| Robert's GitHub Profile                | [https://robertwarneke.com/github](https://robertwarneke.com/github)                       |
-| Robert's GitHub Repos                  | [https://robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)           |
-| robert-warneke (GitHub Repo)           | [https://robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) |
-| robert-warneke.github.io (GitHub Repo) | [https://robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) |
-| Issues for robert-warneke.github.io | [https://robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) |
-| Robert's Resume                        | [https://robertwarneke.com/resume](https://robertwarneke.com/resume)                       |
-| Robert's Technical Trainer Presentation| [https://robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer) |
+| Page                          | URL                                                                                       | Description |
+|-------------------------------|-------------------------------------------------------------------------------------------|-------------|
+| Robert's LinkedIn Profile              | [https://robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                   | Redirects to Robert's LinkedIn profile |
+| Robert's GitHub Profile                | [https://robertwarneke.com/github](https://robertwarneke.com/github)                       | Redirects to Robert's GitHub Profile |
+| Robert's GitHub Repos                  | [https://robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)           | Redirects to Robert's GitHub Repositories |
+| robert-warneke (GitHub Repo)           | [https://robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) | Redirects to the GitHub repository 'robert-warneke' |
+| robert-warneke.github.io (GitHub Repo) | [https://robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) | |
+| Issues for robert-warneke.github.io | [https://robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | |
+| Robert's Resume                        | [https://robertwarneke.com/resume](https://robertwarneke.com/resume)                       | |
+| Robert's Technical Trainer Presentation| [https://robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer) | |
 
 
 ## 🐛 Issues and Feedback <a id="issues-and-feedback"></a>
