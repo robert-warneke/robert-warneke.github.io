@@ -13,7 +13,7 @@ Welcome to the repository for Robert Warneke's professional website, hosted at [
 - [🤝 Connect with Me](#connect-with-me)
 
 ## 📋 Overview <a id="overview"></a>
-This repository contains the source code for Robert Warneke's professional website, showcasing his portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with his latest work and achievements.
+This repository contains the source code for my professional website, showcasing my portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with my latest work and achievements. - *Robert Warneke*
 
 ## ✨ Features <a id="features"></a>
 - Redirects to online profiles and resources:
