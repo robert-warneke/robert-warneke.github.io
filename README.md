@@ -17,7 +17,9 @@ This repository contains the source code for my professional website, showcasing
 - HTML
 - CSS
 - JavaScript
-- GitHub Pages
+- [Formspree](https://formspree.io) (for form handling)
+- [GitHub Pages](https://pages.github.com) (for hosting)
+- [Squarespace](https://www.squarespace.com) (for domain management)
 
 ## 🌍 Domain Management <a id="domain-management"></a>
 The custom domain [robertwarneke.com](https://robertwarneke.com) is managed through [Squarespace](https://www.squarespace.com).
