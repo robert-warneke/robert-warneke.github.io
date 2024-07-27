@@ -16,8 +16,9 @@ Welcome to the repository for Robert Warneke's professional website, hosted at [
 This repository contains the source code for my professional website, showcasing my portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with my latest work and achievements. - *Robert Warneke*
 
 ## ✨ Features <a id="features"></a>
-- **Responsive Design**
-- **Redirects to online profiles and resources:**
+- **Responsive Design**: The website is fully responsive, ensuring a seamless experience across all devices, from desktops to mobile phones.
+- **Interactive Elements**: Carousels, image sliders, and lightbox galleries to enhance user engagement.
+- **Redirects to online profiles and resources**:
   - [LinkedIn Profile](https://robertwarneke.com/linkedin)
   - [GitHub Profile](https://robertwarneke.com/github)
   - [GitHub Repos](https://robertwarneke.com/github/repos)
@@ -26,7 +27,7 @@ This repository contains the source code for my professional website, showcasing
         - [Issues for 'robert-warneke.github.io'](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues)
   - [Resume](https://robertwarneke.com/resume)
   - [Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
-- **Custom 404 Error Page**
+- **Custom 404 Error Page**: A user-friendly 404 error page to help visitors navigate back to the main site.
 - **Contact Form**
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
