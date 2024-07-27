@@ -16,7 +16,7 @@ This repository contains the source code for my professional website, showcasing
 
 ## ✨ Features <a id="features"></a>
 - Redirects to online profiles and resources:
-  - [Robert's LinkedIn](https://robertwarneke.com/linkedin)
+  - [Robert's LinkedIn Profile](https://robertwarneke.com/linkedin)
   - [Robert's GitHub Profile](https://robertwarneke.com/github)
   - [Robert's GitHub Repos](https://robertwarneke.com/github/repos)
     - [robert-warneke](https://robertwarneke.com/github/repos/robert-warneke)
