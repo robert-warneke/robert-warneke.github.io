@@ -20,9 +20,9 @@ This repository contains the source code for Robert Warneke's professional websi
   - [LinkedIn Profile](https://robertwarneke.com/linkedin)
   - [GitHub Profile](https://robertwarneke.com/github)
   - [GitHub Repos](https://robertwarneke.com/github/repos)
-    - [robert-warneke](https://robertwarneke.com/github/repos/robert-warneke)
-    - [robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io)
-        - [Issues for robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues)
+    - ['robert-warneke'](https://robertwarneke.com/github/repos/robert-warneke)
+    - ['robert-warneke.github.io'](https://robertwarneke.com/github/repos/robert-warneke.github.io)
+        - [Issues for 'robert-warneke.github.io'](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues)
   - [Resume](https://robertwarneke.com/resume)
   - [Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
 - Custom 404 Error Page
@@ -38,15 +38,15 @@ This repository contains the source code for Robert Warneke's professional websi
 ## 🔗 Website Navigation <a id="website-navigation"></a>
 
 | Page                          | URL                                                                                       | Redirects to | Description |
-|-------------------------------|-------------------------------------------------------------------------------------------|-------------|-------------|
-| LinkedIn Profile              | [robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                          | [linkedin.com/in/robert-warneke](https://www.linkedin.com/in/robert-warneke) | LinkedIn profile |
-| GitHub Profile                | [robertwarneke.com/github](https://robertwarneke.com/github)                              | [github.com/robert-warneke](https://github.com/robert-warneke) | GitHub profile |
-| GitHub Repos                  | [robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)                  | [github.com/robert-warneke?tab=repositories](https://github.com/robert-warneke?tab=repositories) | GitHub repositories |
-| robert-warneke (Repo)         | [robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) | [github.com/robert-warneke/robert-warneke](https://github.com/robert-warneke/robert-warneke) | GitHub repository |
-| robert-warneke.github.io (Repo) | [robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) | [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io) | GitHub repository for website |
-| Issues for robert-warneke.github.io | [robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | [github.com/robert-warneke/robert-warneke.github.io/issues](https://github.com/robert-warneke/robert-warneke.github.io/issues) | Issues tab for repository |
-| Resume                        | [robertwarneke.com/resume](https://robertwarneke.com/resume)                              | [robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf) | PDF of resume |
-| Technical Trainer Presentation | [robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer)       | [robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf) | PDF of presentation |
+|-------------------------------|-------------------------------------------------------------------------------------------|-------------|----------|
+| LinkedIn Profile              | [robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                   | [linkedin.com/in/robert-warneke/](https://www.linkedin.com/in/robert-warneke) | Redirects to Robert's LinkedIn profile |
+| GitHub Profile                | [robertwarneke.com/github](https://robertwarneke.com/github)                       | [github.com/robert-warneke](https://github.com/robert-warneke) | Redirects to Robert's GitHub profile |
+| GitHub Repos                  | [robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)           | [github.com/robert-warneke?tab=repositories](https://github.com/robert-warneke?tab=repositories) | Redirects to Robert's repositories on GitHub |
+| 'robert-warneke' (GitHub Repo)           | [robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) | [github.com/robert-warneke/robert-warneke](https://github.com/robert-warneke/robert-warneke) | Redirects to Robert's GitHub repository 'robert-warneke' |
+| 'robert-warneke.github.io' (GitHub Repo) | [robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) | [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io) | Redirects to Robert's GitHub repository 'robert-warneke.github.io' |
+| Issues for 'robert-warneke.github.io' (GitHub Repo) | [robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | [github.com/robert-warneke/robert-warneke.github.io/issues](https://github.com/robert-warneke/robert-warneke.github.io/issues) | Redirects to the 'Issues' tab for Robert's GitHub repository 'robert-warneke.github.io' (robertwarneke.com) |
+| Resume                        | [robertwarneke.com/resume](https://robertwarneke.com/resume)                       | [robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf) | Redirects to a PDF of Robert's resume |
+| Technical Trainer Presentation| [robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer) | [robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf) | Redirects to a PDF of Robert's Technical Trainer presentation |
 
 
 ## 🐛 Issues and Feedback <a id="issues-and-feedback"></a>
