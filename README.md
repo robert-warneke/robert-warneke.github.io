@@ -5,6 +5,7 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 ##### 📑 Table of Contents
 - [📋 Overview](#overview)
 - [🛠️ Technologies Used](#technologies-used)
+- [🐛 Issues and Feedback](#issues-and-feedback)
 - [📜 License](#license)
 - [📬 Contact](#contact)
 - [🤝 Connect with Me](#connect-with-me)
@@ -19,6 +20,9 @@ This repository contains the source code for my professional website, showcasing
 - [Formspree](https://formspree.io) (for form handling)
 - [GitHub Pages](https://pages.github.com) (for hosting)
 - [Squarespace](https://www.squarespace.com) (for domain management)
+
+## 🐛 Issues and Feedback <a id="issues-and-feedback"></a>
+If you encounter any issues or have feedback, please feel free to [open an issue](https://github.com/robert-warneke/robert-warneke.github.io/issues) on this repository.
 
 ## 📜 License <a id="license"></a>
 All Rights Reserved.
