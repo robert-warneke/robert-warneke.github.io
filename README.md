@@ -3,10 +3,10 @@
 Welcome to the repository for my professional website, hosted at [robertwarneke.com](https://robertwarneke.com).
 
 ##### 📑 Table of Contents
-- [Overview](#-overview)
-- [License](#-license)
-- [Contact](#-contact)
-- [Connect with Me](#-connect-with-me)
+- [📋 Overview](#-overview)
+- [📜 License](#-license)
+- [📬 Contact](#-contact)
+- [🤝 Connect with Me](#-connect-with-me)
 
 ## 📋 Overview
 This repository contains the source code for my professional website, showcasing my portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with my latest work and achievements.
