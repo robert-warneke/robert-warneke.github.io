@@ -3,14 +3,14 @@
 Welcome to the repository for my professional website, hosted at [robertwarneke.com](https://robertwarneke.com).
 
 ##### 📑 Table of Contents
-- [📋 Overview](#-overview)
+- [📋 Overview](#overview)
 - [🛠️ Technologies Used](#technologies-used)
-- [🌍 Domain Management](#-domain-management)
-- [📜 License](#-license)
-- [📬 Contact](#-contact)
-- [🤝 Connect with Me](#-connect-with-me)
+- [🌍 Domain Management](#domain-management)
+- [📜 License](#license)
+- [📬 Contact](#contact)
+- [🤝 Connect with Me](#connect-with-me)
 
-## 📋 Overview
+## 📋 Overview <a id="overview"></a>
 This repository contains the source code for my professional website, showcasing my portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with my latest work and achievements.
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
@@ -19,16 +19,16 @@ This repository contains the source code for my professional website, showcasing
 - JavaScript
 - GitHub Pages
 
-## 🌍 Domain Management
+## 🌍 Domain Management <a id="domain-management"></a>
 The custom domain [robertwarneke.com](https://robertwarneke.com) is managed through [Squarespace](https://www.squarespace.com).
 
-## 📜 License
+## 📜 License <a id="license"></a>
 All Rights Reserved.
 
-## 📬 Contact
+## 📬 Contact <a id="contact"></a>
 For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me <a id="connect-with-me"></a>
 - [LinkedIn](https://www.linkedin.com/in/robert-warneke)
 - [GitHub](https://github.com/robert-warneke)
 
