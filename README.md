@@ -4,7 +4,7 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 
 ##### 📑 Table of Contents
 - [📋 Overview](#-overview)
-- [🛠️ Technologies Used](#-technologies-used)
+- [🛠️ Technologies Used](#technologies-used)
 - [🌍 Domain Management](#-domain-management)
 - [📜 License](#-license)
 - [📬 Contact](#-contact)
@@ -13,7 +13,7 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 ## 📋 Overview
 This repository contains the source code for my professional website, showcasing my portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with my latest work and achievements.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used <a id="technologies-used"></a>
 - HTML
 - CSS
 - JavaScript
