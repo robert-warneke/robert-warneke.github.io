@@ -5,6 +5,9 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 ## Contact
 For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
 
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/robert-warneke)
+
 ---
 
 Visit the live site at [robertwarneke.com](https://robertwarneke.com).
