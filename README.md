@@ -5,6 +5,7 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 ##### 📑 Table of Contents
 - [📋 Overview](#-overview)
 - [🛠️ Technologies Used](#-technologies-used)
+- [🌍 Domain Management](#-domain-management)
 - [📜 License](#-license)
 - [📬 Contact](#-contact)
 - [🤝 Connect with Me](#-connect-with-me)
@@ -17,6 +18,9 @@ This repository contains the source code for my professional website, showcasing
 - CSS
 - JavaScript
 - GitHub Pages
+
+## 🌍 Domain Management
+The custom domain [robertwarneke.com](https://robertwarneke.com) is managed through [Squarespace](https://www.squarespace.com).
 
 ## 📜 License
 All Rights Reserved.
