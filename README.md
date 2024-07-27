@@ -6,6 +6,7 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 - [📋 Overview](#overview)
 - [✨ Features](#features)
 - [🛠️ Technologies Used](#technologies-used)
+- [🔗 Website Navigation](#website-navigation)
 - [🐛 Issues and Feedback](#issues-and-feedback)
 - [📜 License](#license)
 - [📬 Contact](#contact)
