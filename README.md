@@ -13,6 +13,7 @@ For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@r
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/robert-warneke)
+- [GitHub](https://github.com/robert-warneke)
 
 ---
 
