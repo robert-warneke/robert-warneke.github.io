@@ -5,7 +5,6 @@ Welcome to the repository for my professional website, hosted at [robertwarneke.
 ##### 📑 Table of Contents
 - [📋 Overview](#overview)
 - [🛠️ Technologies Used](#technologies-used)
-- [🌍 Domain Management](#domain-management)
 - [📜 License](#license)
 - [📬 Contact](#contact)
 - [🤝 Connect with Me](#connect-with-me)
@@ -20,9 +19,6 @@ This repository contains the source code for my professional website, showcasing
 - [Formspree](https://formspree.io) (for form handling)
 - [GitHub Pages](https://pages.github.com) (for hosting)
 - [Squarespace](https://www.squarespace.com) (for domain management)
-
-## 🌍 Domain Management <a id="domain-management"></a>
-The custom domain [robertwarneke.com](https://robertwarneke.com) is managed through [Squarespace](https://www.squarespace.com).
 
 ## 📜 License <a id="license"></a>
 All Rights Reserved.
