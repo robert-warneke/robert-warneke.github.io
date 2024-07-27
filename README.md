@@ -27,6 +27,7 @@ This repository contains the source code for my professional website, showcasing
   - [Resume](https://robertwarneke.com/resume)
   - [Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
 - **Custom 404 Error Page**
+- **Contact Form**
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
 - HTML
