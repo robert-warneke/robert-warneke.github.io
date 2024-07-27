@@ -2,22 +2,22 @@
 
 Welcome to the repository for my professional website, hosted at [robertwarneke.com](https://robertwarneke.com).
 
-##### Table of Contents
+##### 📑 Table of Contents
 - [Overview](#overview)
 - [License](#license)
 - [Contact](#contact)
 - [Connect with Me](#connect-with-me)
 
-## Overview
+## 📋 Overview
 This repository contains the source code for my professional website, showcasing my portfolio, projects, and professional journey. Built using modern web technologies, it is continually updated with my latest work and achievements.
 
-## License
+## 📜 License
 All Rights Reserved.
 
-## Contact
+## 📬 Contact
 For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
 
-## Connect with Me
+## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/robert-warneke)
 - [GitHub](https://github.com/robert-warneke)
 
