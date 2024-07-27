@@ -37,7 +37,7 @@ This repository contains the source code for my professional website, showcasing
 
 ## 🔗 Website Navigation <a id="website-navigation"></a>
 
-| Page                          | URL                                                                                       | Redirect URL | Description |
+| Page                          | URL                                                                                       | Redirects to | Description |
 |-------------------------------|-------------------------------------------------------------------------------------------|-------------|----------|
 | Robert's LinkedIn Profile              | [robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                   | [linkedin.com/in/robert-warneke/](https://www.linkedin.com/in/robert-warneke) | Redirects to Robert's LinkedIn profile |
 | Robert's GitHub Profile                | [robertwarneke.com/github](https://robertwarneke.com/github)                       | [github.com/robert-warneke](https://github.com/robert-warneke) | Redirects to Robert's GitHub profile |
