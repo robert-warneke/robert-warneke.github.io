@@ -21,6 +21,7 @@ This repository contains the source code for my professional website, showcasing
   - [Robert's GitHub Repos](https://robertwarneke.com/github/repos)
     - [robert-warneke](https://robertwarneke.com/github/repos/robert-warneke)
     - [robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io)
+        - [robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues)
   - [Robert's Resume](https://robertwarneke.com/resume)
   - [Robert's Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
 - Custom 404 Error Page
