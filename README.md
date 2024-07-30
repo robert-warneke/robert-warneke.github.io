@@ -27,7 +27,7 @@ This repository contains the source code for my professional website, showcasing
   - [GitHub Repos](https://robertwarneke.com/github/repos)
     - ['robert-warneke'](https://robertwarneke.com/github/repos/robert-warneke)
     - ['robert-warneke.github.io'](https://robertwarneke.com/github/repos/robert-warneke.github.io)
-        - [Issues for 'robert-warneke.github.io'](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues)
+        - [Report an Issue for 'robert-warneke.github.io'](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues)
   - [Resume](https://robertwarneke.com/resume)
   - [Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
 - **Custom 404 Error Page**: A user-friendly 404 error page to help visitors navigate back to the main site.
@@ -49,7 +49,7 @@ This repository contains the source code for my professional website, showcasing
 | GitHub Repos                  | [robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)           | [github.com/robert-warneke?tab=repositories](https://github.com/robert-warneke?tab=repositories) | Robert's repositories on GitHub |
 | 'robert-warneke' (GitHub Repo)           | [robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) | [github.com/robert-warneke/robert-warneke](https://github.com/robert-warneke/robert-warneke) | Robert's GitHub repository 'robert-warneke' |
 | 'robert-warneke.github.io' (GitHub Repo) | [robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) | [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io) | Robert's GitHub repository 'robert-warneke.github.io' |
-| Issues for 'robert-warneke.github.io' (GitHub Repo) | [robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | [github.com/robert-warneke/robert-warneke.github.io/issues](https://github.com/robert-warneke/robert-warneke.github.io/issues) | 'Issues' tab for Robert's GitHub repository 'robert-warneke.github.io' (robertwarneke.com) |
+| Report an Issue for 'robert-warneke.github.io' | [robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | [github.com/robert-warneke/robert-warneke.github.io/issues](https://github.com/robert-warneke/robert-warneke.github.io/issues) | 'Issues' tab for Robert's GitHub repository 'robert-warneke.github.io' (robertwarneke.com) |
 | Resume                        | [robertwarneke.com/resume](https://robertwarneke.com/resume)                       | [robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf) | PDF of Robert's resume |
 | Technical Trainer Presentation| [robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer) | [robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf) | PDF of Robert's Technical Trainer presentation |
 
