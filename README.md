@@ -47,7 +47,7 @@ This repository contains the source code for my professional website, showcasing
 If you encounter any issues or have feedback, please feel free to [open an issue](https://github.com/robert-warneke/robert-warneke.github.io/issues) on this repository.
 
 ## 📜 License <a id="license"></a>
-This project is licensed under the terms of the [All Rights Reserved](./LICENSE) license.
+This project is licensed under the terms of the [All Rights Reserved](https://github.com/robert-warneke/robert-warneke.github.io/blob/main/LICENSE) license.
 
 ## 📬 Contact <a id="contact"></a>
 For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
