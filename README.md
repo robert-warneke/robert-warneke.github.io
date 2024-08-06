@@ -42,23 +42,12 @@ This repository contains the source code for my professional website, showcasing
 
 ## 🔗 Website Navigation <a id="website-navigation"></a>
 
-| Page                          | URL                                                                                       | Redirects to | Description |
-|-------------------------------|-------------------------------------------------------------------------------------------|-------------|----------|
-| LinkedIn Profile              | [robertwarneke.com/linkedin](https://robertwarneke.com/linkedin)                   | [linkedin.com/in/robert-warneke/](https://www.linkedin.com/in/robert-warneke) | Robert's LinkedIn profile |
-| GitHub Profile                | [robertwarneke.com/github](https://robertwarneke.com/github)                       | [github.com/robert-warneke](https://github.com/robert-warneke) | Robert's GitHub profile |
-| GitHub Repos                  | [robertwarneke.com/github/repos](https://robertwarneke.com/github/repos)           | [github.com/robert-warneke?tab=repositories](https://github.com/robert-warneke?tab=repositories) | Robert's repositories on GitHub |
-| 'robert-warneke' (GitHub Repo)           | [robertwarneke.com/github/repos/robert-warneke](https://robertwarneke.com/github/repos/robert-warneke) | [github.com/robert-warneke/robert-warneke](https://github.com/robert-warneke/robert-warneke) | Robert's GitHub repository 'robert-warneke' |
-| 'robert-warneke.github.io' (GitHub Repo) | [robertwarneke.com/github/repos/robert-warneke.github.io](https://robertwarneke.com/github/repos/robert-warneke.github.io) | [github.com/robert-warneke/robert-warneke.github.io](https://github.com/robert-warneke/robert-warneke.github.io) | Robert's GitHub repository 'robert-warneke.github.io' |
-| Report an Issue for 'robert-warneke.github.io' | [robertwarneke.com/github/repos/robert-warneke.github.io/issues](https://robertwarneke.com/github/repos/robert-warneke.github.io/issues) | [github.com/robert-warneke/robert-warneke.github.io/issues](https://github.com/robert-warneke/robert-warneke.github.io/issues) | 'Issues' tab for Robert's GitHub repository 'robert-warneke.github.io' (robertwarneke.com) |
-| Resume                        | [robertwarneke.com/resume](https://robertwarneke.com/resume)                       | [robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-resume.pdf) | PDF of Robert's resume |
-| Technical Trainer Presentation| [robertwarneke.com/technical-trainer](https://robertwarneke.com/technical-trainer) | [robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf](https://robertwarneke.com/assets/docs/[RobertWarneke]-ETST-presentation.pdf) | PDF of Robert's Technical Trainer presentation |
-
 
 ## 🐛 Issues and Feedback <a id="issues-and-feedback"></a>
 If you encounter any issues or have feedback, please feel free to [open an issue](https://github.com/robert-warneke/robert-warneke.github.io/issues) on this repository.
 
 ## 📜 License <a id="license"></a>
-All Rights Reserved.
+This project is licensed under the terms of the [All Rights Reserved](./LICENSE) license.
 
 ## 📬 Contact <a id="contact"></a>
 For any inquiries, please reach out via [hello@robertwarneke.com](mailto:hello@robertwarneke.com).
