@@ -5,6 +5,7 @@ Welcome to the repository for Robert Warneke's professional website, hosted at [
 ##### 📑 Table of Contents
 - [📋 Overview](#overview)
 - [✨ Features](#features)
+- [📷 Screenshots](#screenshots)
 - [🛠️ Technologies Used](#technologies-used)
 - [🔗 Website Navigation](#website-navigation)
 - [🐛 Issues and Feedback](#issues-and-feedback)
@@ -31,6 +32,8 @@ This repository contains the source code for my professional website, showcasing
   - [Resume](https://robertwarneke.com/resume)
   - [Technical Trainer Presentation](https://robertwarneke.com/technical-trainer)
 - **Custom 404 Error Page**: A user-friendly 404 error page to help visitors navigate back to the main site.
+
+## 📷 Screenshots <a id="screenshots"></a>
 
 ## 🛠️ Technologies Used <a id="technologies-used"></a>
 - HTML
